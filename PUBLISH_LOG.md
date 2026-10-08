@@ -1,5 +1,12 @@
 # Publish log
 
+## 2026-10-08 19:21 +04 — Preview only: phone sections menu
+
+- Deployment: `dpl_B7HUGJb5cg1aST2iKc6yckUZ5Tcy` (`map-gyi2b9lgu`, preview, not production). https://map-gyi2b9lgu-mahmoud1594-8326s-projects.vercel.app — Vercel Authentication is on. `vercel curl` returned the CRM HTML. Not promoted.
+- Branch/commit: `cursor/phone-crm-menu-4cb8` / `727f86a`. `npm test` 65 passed. `npm run build` and check-bundle-pii clean.
+- Summary: On a phone the sections menu crashed React (`useNavGroups` ran only after the menu opened) and the header button sits in a frosted bar that iOS does not tap, including no button at all on the full-page calendar. The hook always runs now, and a fixed 44px button on the shell opens the menu below 1100px. Desktop rail is unchanged.
+- Live sites are still 404 (`x-vercel-error: NOT_FOUND`) on crm.askmontaser.ae and www.askmontaser.ae because the empty initial commit on `main` was deployed to both `map-crm` and `real-estate-landing`. Do not merge this PR until Mahmoud approves: merging would also publish the CRM over the marketing site. Last good CRM deploy before that wipe was `dpl_DcH1QgZPvfA6DiUGMGjCGW62f6sN`. Last good landing deploy was `dpl_2dyjXfXJ5MdmiL7uqqJt6k9BXyRp`.
+
 ## 2026-10-08 18:39 +04 — Planner follow-ups and desktop rail live
 
 - Deployment: `dpl_2nz8kRoNQEehvK9tmHYEwQN77jkm` (`map-5buuat12b`, production, crm.askmontaser.ae). Approved by Mahmoud ("Confirmed go live") after preview `dpl_9XgGe7F3SWUHs6AhBHA8LBAtE3yK` (askmontaser-crm-preview.vercel.app). `crm.askmontaser.ae` returned 200. `crm.mahmouddxb.com` still 308s to it.

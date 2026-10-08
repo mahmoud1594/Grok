@@ -227,6 +227,8 @@ export function SideMenu({ tab, onTab }: SideMenuProps) {
   const [signingOut, setSigningOut] = useState(false)
   const health = dataHealth()
   const logout = useLogout()
+  // Always call this. A hook after the early return crashes the phone menu.
+  const navGroups = useNavGroups()
 
   useEffect(() => {
     if (open) setIssues(loadIssues())
@@ -250,7 +252,6 @@ export function SideMenu({ tab, onTab }: SideMenuProps) {
 
   const close = () => setMenuOpen(false)
   const settings = sectionById('settings')
-  const navGroups = useNavGroups()
 
   return (
     <div className="side-menu-root">

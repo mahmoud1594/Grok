@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Ask MonTaser CRM - WhatsApp Web inside the CRM",
+  "description": "Shows your own WhatsApp Web inside the Ask MonTaser CRM WhatsApp tab. Only active on crm.askmontaser.ae (and the old crm.mahmouddxb.com).",
+  "version": "1.2.0",
+  "permissions": ["declarativeNetRequest"],
+  "host_permissions": ["https://web.whatsapp.com/*"],
+  "declarative_net_request": {
+    "rule_resources": [{ "id": "crm-frame", "enabled": true, "path": "rules.json" }]
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://crm.askmontaser.ae/*", "https://crm.mahmouddxb.com/*", "https://askmontaser-crm-preview.vercel.app/*", "http://localhost/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["https://web.whatsapp.com/*"],
+      "js": ["frame.js"],
+      "all_frames": true,
+      "run_at": "document_start"
+    }
+  ]
+}

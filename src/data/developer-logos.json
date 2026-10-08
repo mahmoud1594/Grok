@@ -1,0 +1,28 @@
+{
+  "byCard": {},
+  "byDeveloper": {
+    "Emaar": "emaar",
+    "Sobha": "sobha",
+    "Sobha Realty": "sobha",
+    "Nakheel": "nakheel",
+    "Binghatti": "binghatti",
+    "Binghatti Developers": "binghatti",
+    "Meraas": "meraas",
+    "DAMAC": "damac",
+    "Deyaar": "deyaar",
+    "Majid Al Futtaim": "majid-al-futtaim",
+    "Dubai South": "dubai-south",
+    "TownX Development": "townx",
+    "Samana Developers": "samana",
+    "Imtiaz Developments": "imtiaz",
+    "DECA Properties": "deca",
+    "MAG": "mag",
+    "MAG Group": "mag",
+    "MAG Property Development": "mag",
+    "LEOS Developments": "leos",
+    "Sharaf Group": "sharaf",
+    "Peace Homes Development": "peace-homes",
+    "Nshama": "nshama",
+    "Union Properties": "union-properties"
+  }
+}

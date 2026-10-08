@@ -1,0 +1,16 @@
+{
+  "source": "Bitrix Leads",
+  "sheetId": "1UzHKQiuYcC_OUVOcJoEGs02QqRMLy1nLRo5VNHKovr4",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1UzHKQiuYcC_OUVOcJoEGs02QqRMLy1nLRo5VNHKovr4/edit",
+  "exportedAt": "",
+  "exportedAtUtc": "",
+  "owner": "",
+  "badge": "LIVE · Bitrix leads",
+  "crmBase": "https://crm.mpd.ae",
+  "counts": {
+    "total": 0,
+    "bitrix": 0
+  },
+  "leads": [],
+  "note": "Lead rows are not committed. The Leads tab reads the private sheet through signed-in /api/leads."
+}

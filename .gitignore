@@ -1,0 +1,16 @@
+node_modules
+bitrix-leads/
+secondary-units/
+dist
+.DS_Store
+*.local
+.vite
+*.tsbuildinfo
+.env
+.env.*
+.vercel
+*.pem
+# Owner phone index and client rows. Never commit.
+api/_lib/owner-phones.sqlite.gz
+api/_lib/clients-data.js
+extension/_metadata

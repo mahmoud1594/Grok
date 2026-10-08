@@ -1,0 +1,120 @@
+{
+  "note": "Official logos baked locally. origin web means the file was not the Trello attachment.",
+  "developers": {
+    "Emaar": {
+      "slug": "emaar",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emaar_logo.svg"
+    },
+    "Sobha": {
+      "slug": "sobha",
+      "origin": "web",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sobha_(company).svg"
+    },
+    "Sobha Realty": {
+      "slug": "sobha",
+      "origin": "web",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sobha_(company).svg"
+    },
+    "Nakheel": {
+      "slug": "nakheel",
+      "origin": "web",
+      "sourceUrl": "https://www.nakheel.com/images/nakheelcorporatelibraries/logos/nakheel-log.svg"
+    },
+    "Binghatti": {
+      "slug": "binghatti",
+      "origin": "web",
+      "sourceUrl": "https://www.binghatti.com/"
+    },
+    "Binghatti Developers": {
+      "slug": "binghatti",
+      "origin": "web",
+      "sourceUrl": "https://www.binghatti.com/"
+    },
+    "Meraas": {
+      "slug": "meraas",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meraas-logo.svg"
+    },
+    "DAMAC": {
+      "slug": "damac",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damac_logo.svg"
+    },
+    "Deyaar": {
+      "slug": "deyaar",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deyaar_-01.png"
+    },
+    "Majid Al Futtaim": {
+      "slug": "majid-al-futtaim",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Majid_Al_Futtaim_logo.svg"
+    },
+    "Dubai South": {
+      "slug": "dubai-south",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_South_logo.png"
+    },
+    "TownX Development": {
+      "slug": "townx",
+      "origin": "web",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TownX_logo.png"
+    },
+    "Samana Developers": {
+      "slug": "samana",
+      "origin": "web",
+      "sourceUrl": "https://www.samanadevelopers.com/assets/img/updated-logo/black.png"
+    },
+    "Imtiaz Developments": {
+      "slug": "imtiaz",
+      "origin": "web",
+      "sourceUrl": "https://imtiaz.ae/layout/image/logo-red.svg"
+    },
+    "DECA Properties": {
+      "slug": "deca",
+      "origin": "web",
+      "sourceUrl": "https://deca-properties.com/wp-content/uploads/2025/05/deca-logo-new.png"
+    },
+    "MAG": {
+      "slug": "mag",
+      "origin": "web",
+      "sourceUrl": "https://www.mag.global/brand/mag-logo-192.png"
+    },
+    "MAG Group": {
+      "slug": "mag",
+      "origin": "web",
+      "sourceUrl": "https://www.mag.global/brand/mag-logo-192.png"
+    },
+    "MAG Property Development": {
+      "slug": "mag",
+      "origin": "web",
+      "sourceUrl": "https://www.mag.global/brand/mag-logo-192.png"
+    },
+    "LEOS Developments": {
+      "slug": "leos",
+      "origin": "web",
+      "sourceUrl": "https://leosdevelopments.com/wp-content/uploads/2022/11/leos-logo-gold.png"
+    },
+    "Sharaf Group": {
+      "slug": "sharaf",
+      "origin": "web",
+      "sourceUrl": "https://www.sharafgroup.com/wp-content/uploads/2023/11/sg-colored-logo.jpg"
+    },
+    "Peace Homes Development": {
+      "slug": "peace-homes",
+      "origin": "web",
+      "sourceUrl": "https://www.peacehomesdevelopment.com/frontend/assets/images/resources/logo.png"
+    },
+    "Nshama": {
+      "slug": "nshama",
+      "origin": "web",
+      "sourceUrl": "https://nshama.ae/wp-content/themes/nshama/img/nashama-logo.svg"
+    },
+    "Union Properties": {
+      "slug": "union-properties",
+      "origin": "web",
+      "sourceUrl": "https://up.ae/"
+    }
+  }
+}

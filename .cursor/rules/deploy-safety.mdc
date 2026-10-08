@@ -1,0 +1,21 @@
+---
+description: Permanent deploy-safety rules for the live CRM (crm.askmontaser.ae; crm.mahmouddxb.com redirects; Vercel project map-crm).
+alwaysApply: true
+---
+
+# Agent deploy safety
+
+Every Cursor agent reads these rules before changing this repo. The live CRM is https://crm.askmontaser.ae (Vercel project `map-crm`). It is the only CRM URL: https://crm.mahmouddxb.com and https://map-crm-sooty.vercel.app redirect everything there (308), except the bot webhooks `/api/news`, `/api/broadcast-reply` and `/api/email-events`, which still answer so older bots keep working.
+
+1. Always branch from the latest `main`. Never start from old branches (e.g. `cursor/crm-news-calendar-whatsapp-c0ec`) or from old Vercel deployments.
+2. Before any `vercel deploy --prod`, pull the latest main, run `npm ci && npm run build`, and confirm the `check-bundle-pii` guard passes. Never deploy a build that fails it.
+3. Never put client or owner phone numbers, or lead or client data, in frontend code or JSON under `src/`. That data stays server-side (`api/_lib`, env, Google Sheet) behind auth. The only phone allowed in the frontend is the brokerage line 971542000142.
+4. Keep the existing features working: `/api/clients`, v3 auth (no fallback logins; `LISTING_CHECK_USER` / `LISTING_CHECK_PASS` / `LISTING_CHECK_SECRET` required), Listings Check owner search (`/api/owner-search`, owner db in `api/_lib/owner-phones.sqlite.gz` or `OWNER_PHONES_INDEX_URL`, never committed), the Leads grid, broadcast intake (`/api/broadcast-reply`), calendar (`/api/calendar`, `/api/calendar/events`), News and WhatsApp tabs. Don't add an unauthenticated `api/inventory/refresh`.
+5. After deploying, append the deployment id, time (Dubai), branch/commit and a one-line summary to `PUBLISH_LOG.md` in the repo root (create it if missing), and commit the change to main via a PR.
+6. Preview first, production only after approval. Mahmoud wants a full live preview of the site before anything is launched (decided 2026-10-04); screenshots alone are not enough.
+   - Never deploy straight to production. Push your work to a feature branch made from the latest `main` and open a PR.
+   - Get a Vercel preview deployment URL for that branch. Vercel's Git integration is not connected to this repo today, so run `vercel deploy` (without `--prod`) from the feature branch to create one. If a Git-integration preview ever appears on the PR, you can use that instead.
+   - Open the preview URL and confirm it loads. Then give Mahmoud that clickable preview URL in your final report and in the PR description, along with a short list of what changed and which pages to check.
+   - Promote to production (merge to `main`, `vercel --prod`, or promote the preview) only after Mahmoud explicitly approves the preview. Before publishing to production, still do rule 2 (latest main, build, PII guard), keep a backup of the current production deployment, and log the publish per rule 5.
+   - Before any `vercel --prod`, record the current production deployment id (`vercel ls --prod` / `vercel inspect`) and the git commit, create a git tag `backup-YYYYMMDD-HHMM` on the current prod commit, and log both in PUBLISH_LOG.md (create it if missing). Rollback is `vercel promote <old deployment id>` or `vercel rollback`.
+   - Preview URLs may be behind Vercel Deployment Protection. Mahmoud is logged in to Vercel, so he can open them. Never disable or weaken deployment protection.

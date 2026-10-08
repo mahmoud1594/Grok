@@ -1,0 +1,14 @@
+node_modules
+bitrix-leads/
+secondary-units/
+dist
+.DS_Store
+*.local
+.vite
+*.tsbuildinfo
+.env
+.env.*
+.vercel
+*.pem
+# Owner phone index (owner PII). Never commit; ship with the deploy or host privately (OWNER_PHONES_INDEX_URL)
+extension/_metadata

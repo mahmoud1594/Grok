@@ -1,0 +1,944 @@
+{
+ "iFMMkea9": {
+  "name": "Soulever",
+  "lat": 25.27618,
+  "lng": 55.26521,
+  "community": "Dubai Maritime City, Bay district",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Maritime City, Bay district. Source: https://www.propertyfinder.ae/en/new-projects/beyond/soulever-towers",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/beyond/soulever-towers"
+ },
+ "zxg4uP8R": {
+  "name": "Kanyon",
+  "lat": 25.27861,
+  "lng": 55.26319,
+  "community": "Dubai Maritime City, Forest District",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubai Maritime City, Forest District. Source: https://dubaiprojectlaunch.com/beyond/kanyon-beyond-maritime-city/",
+  "source_url": "https://dubaiprojectlaunch.com/beyond/kanyon-beyond-maritime-city/"
+ },
+ "JkACh2pp": {
+  "name": "Palm Central",
+  "lat": 25.00556,
+  "lng": 54.98607,
+  "community": "Palm Jebel Ali – Palm Central (spine between Fronds M and N)",
+  "confidence": "high",
+  "pinNote": "Pin: Palm Jebel Ali – Palm Central (spine between Fronds M and N). Source: https://www.propertyfinder.ae/en/new-projects/nakheel/palm-central-private-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/nakheel/palm-central-private-residences"
+ },
+ "RdCHWWvg": {
+  "name": "Port De La Mer",
+  "lat": 25.23647,
+  "lng": 55.25398,
+  "community": "Port de La Mer, La Mer, Jumeirah 1",
+  "confidence": "high",
+  "pinNote": "Pin: Port de La Mer, La Mer, Jumeirah 1. Source: https://www.propertyfinder.ae/en/new-projects/dev/meraas-holding/dubai/jumeirah",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/dev/meraas-holding/dubai/jumeirah"
+ },
+ "iwz3NKfM": {
+  "name": "Passo Bella",
+  "lat": 25.1158,
+  "lng": 55.11006,
+  "community": "Palm Jumeirah, West Crescent",
+  "confidence": "medium",
+  "pinNote": "Pin: Palm Jumeirah, West Crescent. Source: https://beyonddevelopments.ae/featured-article/passo/",
+  "source_url": "https://beyonddevelopments.ae/featured-article/passo/"
+ },
+ "Zi9yLbVM": {
+  "name": "Passo Avita",
+  "lat": 25.1154,
+  "lng": 55.10986,
+  "community": "Palm Jumeirah, West Crescent",
+  "confidence": "medium",
+  "pinNote": "Pin: Palm Jumeirah, West Crescent. Source: https://www.novviproperties.com/off-plan/beyond-by-passo",
+  "source_url": "https://www.novviproperties.com/off-plan/beyond-by-passo"
+ },
+ "W8ihHiFj": {
+  "name": "Hado By Beyond",
+  "lat": 25.31122,
+  "lng": 55.3192,
+  "community": "Dubai Islands (Siora / Island B side)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Islands (Siora / Island B side). Source: https://www.propertyfinder.ae/en/new-projects/beyond/hado-by-beyond",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/beyond/hado-by-beyond"
+ },
+ "vqa5OvD1": {
+  "name": "Aria By Beyond",
+  "lat": 25.26933,
+  "lng": 55.27018,
+  "community": "Dubai Maritime City",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Maritime City. Source: https://www.propertyfinder.ae/en/new-projects/beyond/aria-by-beyond",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/beyond/aria-by-beyond"
+ },
+ "YF2tZKAc": {
+  "name": "Solaya",
+  "lat": 25.23356,
+  "lng": 55.2596,
+  "community": "La Mer, Jumeirah 1",
+  "confidence": "high",
+  "pinNote": "Pin: La Mer, Jumeirah 1. Source: https://www.propertyfinder.ae/en/new-projects/meraas-holding/solaya-in-la-mer",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/solaya-in-la-mer"
+ },
+ "FlijBFQv": {
+  "name": "Palm Jebel Ali Frond F Coral Collection",
+  "lat": 25.02295,
+  "lng": 55.00155,
+  "community": "Palm Jebel Ali, Frond F",
+  "confidence": "medium",
+  "pinNote": "Pin: Palm Jebel Ali, Frond F. Source: https://2gis.ae/dubai/geo/70030076947403365",
+  "source_url": "https://2gis.ae/dubai/geo/70030076947403365"
+ },
+ "96AnhhmB": {
+  "name": "Palm Jebel Ali Frond F Beach Collection",
+  "lat": 25.02255,
+  "lng": 55.00105,
+  "community": "Palm Jebel Ali, Frond F",
+  "confidence": "medium",
+  "pinNote": "Pin: Palm Jebel Ali, Frond F. Source: https://2gis.ae/dubai/geo/70030076947403365",
+  "source_url": "https://2gis.ae/dubai/geo/70030076947403365"
+ },
+ "7QA9intd": {
+  "name": "Aria Grande",
+  "lat": 25.20272,
+  "lng": 55.17028,
+  "community": "Amali Island (Uruguay and Sao Paulo), The World Islands",
+  "confidence": "medium",
+  "pinNote": "Pin: Amali Island (Uruguay and Sao Paulo), The World Islands. Source: https://www.propertyfinder.ae/en/new-projects/amali-properties/amali-island",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/amali-properties/amali-island"
+ },
+ "Zvz6zWyR": {
+  "name": "Starfall",
+  "lat": 25.2247,
+  "lng": 55.32964,
+  "community": "Al Jaddaf (Sama Al Jaddaf / Culture Village)",
+  "confidence": "high",
+  "pinNote": "Pin: Al Jaddaf (Sama Al Jaddaf / Culture Village). Source: https://portal.mpd.ae/properties/1980",
+  "source_url": "https://portal.mpd.ae/properties/1980"
+ },
+ "DC03m3Hz": {
+  "name": "Nourelle",
+  "lat": 25.12962,
+  "lng": 55.19432,
+  "community": "Madinat Jumeirah Living, Umm Suqeim 3",
+  "confidence": "high",
+  "pinNote": "Pin: Madinat Jumeirah Living, Umm Suqeim 3. Source: https://www.propertyfinder.ae/en/new-projects/meraas-holding/nourelle-by-meraas",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/nourelle-by-meraas"
+ },
+ "2OY5Q72o": {
+  "name": "Knightsbridge Park 2",
+  "lat": 25.13038,
+  "lng": 55.35065,
+  "community": "MBR City District 11 (Meydan), Wadi Al Safa 3",
+  "confidence": "high",
+  "pinNote": "Pin: MBR City District 11 (Meydan), Wadi Al Safa 3. Source: https://www.propertyfinder.ae/en/new-projects/leos-international/knightsbridge-2",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/leos-international/knightsbridge-2"
+ },
+ "oZpZkcnz": {
+  "name": "Knightsbridge Park",
+  "lat": 25.13082,
+  "lng": 55.3509,
+  "community": "Meydan District 11 (MBR City, Wadi Al Safa 3)",
+  "confidence": "high",
+  "pinNote": "Pin: Meydan District 11 (MBR City, Wadi Al Safa 3). Source: https://www.propertyfinder.ae/en/new-projects/leos-international/knightsbridge",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/leos-international/knightsbridge"
+ },
+ "iEiaQ81h": {
+  "name": "Mews Mansions",
+  "lat": 25.16234,
+  "lng": 55.31878,
+  "community": "Nad Al Sheba 1, Meydan",
+  "confidence": "medium",
+  "pinNote": "Pin: Nad Al Sheba 1, Meydan. Source: https://propsearch.ae/dubai/mews-mansions",
+  "source_url": "https://propsearch.ae/dubai/mews-mansions"
+ },
+ "n8SWnO7H": {
+  "name": "Keturah Reserve",
+  "lat": 25.14794,
+  "lng": 55.28531,
+  "community": "Meydan, MBR City District 7 (Nad Al Sheba 1)",
+  "confidence": "medium",
+  "pinNote": "Pin: Meydan, MBR City District 7 (Nad Al Sheba 1). Source: https://maps.google.com/?cid=8240456082622043471",
+  "source_url": "https://maps.google.com/?cid=8240456082622043471"
+ },
+ "uDdbSXEY": {
+  "name": "Serene at Sobha Central",
+  "lat": 25.06168,
+  "lng": 55.13371,
+  "community": "Sobha Central, Jebel Ali 1 (Sheikh Zayed Rd)",
+  "confidence": "high",
+  "pinNote": "Pin: Sobha Central, Jebel Ali 1 (Sheikh Zayed Rd). Source: https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-serene",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-serene"
+ },
+ "puvEuhbQ": {
+  "name": "Tranquil at Sobha Central",
+  "lat": 25.06141,
+  "lng": 55.13416,
+  "community": "Sobha Central, Jebel Ali 1 (Sheikh Zayed Rd)",
+  "confidence": "high",
+  "pinNote": "Pin: Sobha Central, Jebel Ali 1 (Sheikh Zayed Rd). Source: https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-tranquil",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-tranquil"
+ },
+ "7pfzZsLJ": {
+  "name": "Sobha City Dubai",
+  "lat": null,
+  "lng": null,
+  "community": "Sobha City, Al Bahyah, ABU DHABI",
+  "confidence": "low",
+  "pinNote": "Outside Dubai: Sobha City, Al Bahyah, ABU DHABI. Not pinned.",
+  "source_url": "https://sobharealty.com/media-center/press-releases/sobha-city-abu-dhabis-new-nature-led-waterfront-living-community",
+  "suggestedLat": 24.549,
+  "suggestedLng": 54.65818,
+  "outsideDubai": true
+ },
+ "4IHyRuJ5": {
+  "name": "Sobha Sanctuary",
+  "lat": 24.99268,
+  "lng": 55.42359,
+  "community": "Sobha Sanctuary, Al Yufrah 1, Dubailand",
+  "confidence": "medium",
+  "pinNote": "Pin: Sobha Sanctuary, Al Yufrah 1, Dubailand. Source: https://www.propertyfinder.ae/en/new-projects/sobha-realty/sobha-sanctuary",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/sobha-sanctuary"
+ },
+ "PREylJlj": {
+  "name": "The Orchard",
+  "lat": null,
+  "lng": null,
+  "community": "Sobha City, Al Bahyah, ABU DHABI",
+  "confidence": "low",
+  "pinNote": "Outside Dubai: Sobha City, Al Bahyah, ABU DHABI. Not pinned.",
+  "source_url": "https://sobharealty.com/properties-in-abu-dhabi/sobha-city/the-orchard",
+  "suggestedLat": 24.549,
+  "suggestedLng": 54.65818,
+  "outsideDubai": true
+ },
+ "dWgx9MGX": {
+  "name": "Ghaf Woods",
+  "lat": 25.07627,
+  "lng": 55.31636,
+  "community": "Ghaf Woods, Wadi Al Safa 4, Dubailand",
+  "confidence": "medium",
+  "pinNote": "Pin: Ghaf Woods, Wadi Al Safa 4, Dubailand. Source: https://www.propertyfinder.ae/en/new-projects/majid-al-futtaim/ghaf-woods",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/majid-al-futtaim/ghaf-woods"
+ },
+ "brqLYkiv": {
+  "name": "Woods Abode",
+  "lat": 24.99718,
+  "lng": 55.43086,
+  "community": "The Woods, Sobha Sanctuary, Al Yufrah 1",
+  "confidence": "high",
+  "pinNote": "Pin: The Woods, Sobha Sanctuary, Al Yufrah 1. Source: https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-woods",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/sobha-realty/the-woods"
+ },
+ "RRz6MBt0": {
+  "name": "DLRC 2BR stock",
+  "lat": 25.09167,
+  "lng": 55.37944,
+  "community": "Dubailand Residence Complex (Wadi Al Safa 5)",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubailand Residence Complex (Wadi Al Safa 5). Source: http://wikimapia.org/2434382/Dubailand-Residence-Complex",
+  "source_url": "http://wikimapia.org/2434382/Dubailand-Residence-Complex"
+ },
+ "Y0k4gASq": {
+  "name": "09 Life Residences",
+  "lat": 25.09691,
+  "lng": 55.37248,
+  "community": "Dubai Land Residence Complex, Wadi Al Safa 5",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Land Residence Complex, Wadi Al Safa 5. Source: https://www.propertyfinder.ae/en/new-projects/deniz-development/09-life-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/deniz-development/09-life-residences"
+ },
+ "apYuZt4D": {
+  "name": "The Wow",
+  "lat": 25.09097,
+  "lng": 55.37851,
+  "community": "Dubai Land Residence Complex (DLRC), Wadi Al Safa 5",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Land Residence Complex (DLRC), Wadi Al Safa 5. Source: https://www.propertyfinder.ae/en/new-projects/mr-eight-development/the-wow-tower",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/mr-eight-development/the-wow-tower"
+ },
+ "Hwpn7awU": {
+  "name": "Milos",
+  "lat": 25.0931,
+  "lng": 55.38032,
+  "community": "Dubai Land Residence Complex (DLRC)",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubai Land Residence Complex (DLRC). Source: https://nominatim.openstreetmap.org/search?q=%D9%85%D8%AC%D9%85%D8%B9%20%D9%85%D8%B3%D9%83%D9%86%20%D8%AF%D8%A8%D9%8A",
+  "source_url": "https://nominatim.openstreetmap.org/search?q=%D9%85%D8%AC%D9%85%D8%B9%20%D9%85%D8%B3%D9%83%D9%86%20%D8%AF%D8%A8%D9%8A"
+ },
+ "kKvR3Reh": {
+  "name": "AUM99 Residences",
+  "lat": 25.08836,
+  "lng": 55.38047,
+  "community": "Dubailand Residence Complex, Wadi Al Safa 5",
+  "confidence": "high",
+  "pinNote": "Pin: Dubailand Residence Complex, Wadi Al Safa 5. Source: https://www.propertyfinder.ae/en/new-projects/ag-properties/aum-99-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/ag-properties/aum-99-residences"
+ },
+ "TD1OmH79": {
+  "name": "Weybridge Gardens 5",
+  "lat": 25.08627,
+  "lng": 55.38464,
+  "community": "Dubailand Residence Complex (Wadi Al Safa 5)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubailand Residence Complex (Wadi Al Safa 5). Source: https://www.propertyfinder.ae/en/new-projects/leos-international/weybridge-gardens-phase-5-by-leos-developments",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/leos-international/weybridge-gardens-phase-5-by-leos-developments"
+ },
+ "QX5P2i0i": {
+  "name": "Weybridge Gardens 4",
+  "lat": 25.09427,
+  "lng": 55.37411,
+  "community": "Dubai Land Residence Complex (Wadi Al Safa 5)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Land Residence Complex (Wadi Al Safa 5). Source: https://www.propertyfinder.ae/en/new-projects/leos-international/weybridge-gardens-4",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/leos-international/weybridge-gardens-4"
+ },
+ "6OgQOpPU": {
+  "name": "Nirvana Residence I",
+  "lat": 25.0379,
+  "lng": 55.20149,
+  "community": "Me'aisem 1, Dubai Production City",
+  "confidence": "high",
+  "pinNote": "Pin: Me'aisem 1, Dubai Production City. Source: https://www.propertyfinder.ae/en/new-projects/meraki/nirvana-residence",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraki/nirvana-residence"
+ },
+ "b1E96tZg": {
+  "name": "Creek Haven",
+  "lat": 25.19926,
+  "lng": 55.34749,
+  "community": "Dubai Creek Harbour (Sanctuary / Al Khairan 1)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Creek Harbour (Sanctuary / Al Khairan 1). Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/creek-haven",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/creek-haven"
+ },
+ "7i082lGG": {
+  "name": "Valia",
+  "lat": 25.19472,
+  "lng": 55.35917,
+  "community": "Dubai Creek Harbour (Al Khairan First), beside Dubai Square",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Creek Harbour (Al Khairan First), beside Dubai Square. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/valia-tower",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/valia-tower"
+ },
+ "CAwC4XSB": {
+  "name": "Sobha One",
+  "lat": 25.1826,
+  "lng": 55.33666,
+  "community": "Sobha One, Ras Al Khor Industrial 1",
+  "confidence": "high",
+  "pinNote": "Pin: Sobha One, Ras Al Khor Industrial 1. Source: https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-one",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-one"
+ },
+ "QLJzGo1x": {
+  "name": "Fior",
+  "lat": 25.27303,
+  "lng": 55.2857,
+  "community": "Mina Rashid (Rashid Yachts & Marina)",
+  "confidence": "high",
+  "pinNote": "Pin: Mina Rashid (Rashid Yachts & Marina). Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/emaar-fior-at-dubai-maritime-city",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/emaar-fior-at-dubai-maritime-city"
+ },
+ "efNJrJRS": {
+  "name": "Jumeirah Residences Emirates Towers",
+  "lat": 25.217,
+  "lng": 55.28547,
+  "community": "Trade Centre 2, Sheikh Zayed Road",
+  "confidence": "high",
+  "pinNote": "Pin: Trade Centre 2, Sheikh Zayed Road. Source: https://www.propertyfinder.ae/en/new-projects/meraas-holding/jumeirah-residences-emirates-towers",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/jumeirah-residences-emirates-towers"
+ },
+ "TVUGwduO": {
+  "name": "Downtown Residences",
+  "lat": 25.1895,
+  "lng": 55.2685,
+  "community": "Business Bay (Marasi Drive / Bay Avenue), not Downtown Dubai",
+  "confidence": "medium",
+  "pinNote": "Pin: Business Bay (Marasi Drive / Bay Avenue), not Downtown Dubai. Source: https://www.deyaar.ae/en/media_center/deyaar-unveils-downtown-residences-in-dubai-one-of-the-worlds-tallest-vertical-residential-communities/",
+  "source_url": "https://www.deyaar.ae/en/media_center/deyaar-unveils-downtown-residences-in-dubai-one-of-the-worlds-tallest-vertical-residential-communities/"
+ },
+ "OI0htRau": {
+  "name": "D3 Design Quarter",
+  "lat": 25.1877,
+  "lng": 55.29743,
+  "community": "Dubai Design District (d3)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Design District (d3). Source: https://www.propertyfinder.ae/en/new-projects/meraas-holding/design-quarter",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/design-quarter"
+ },
+ "nvbXJCoK": {
+  "name": "Avarra by Palace",
+  "lat": 25.18974,
+  "lng": 55.2613,
+  "community": "Business Bay",
+  "confidence": "high",
+  "pinNote": "Pin: Business Bay. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/avarra-by-palace",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/avarra-by-palace"
+ },
+ "sc2dTFsD": {
+  "name": "Eywa Tree of Life",
+  "lat": 25.18311,
+  "lng": 55.27318,
+  "community": "Business Bay, Marasi Drive (canal front)",
+  "confidence": "high",
+  "pinNote": "Pin: Business Bay, Marasi Drive (canal front). Source: https://www.propertyfinder.ae/en/new-projects/r-evolution/eywa-the-tree-of-life",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/r-evolution/eywa-the-tree-of-life"
+ },
+ "RZyTTe8Z": {
+  "name": "Terra Woods",
+  "lat": 24.96087,
+  "lng": 55.15477,
+  "community": "Expo Living, Expo City Dubai (Dubai South)",
+  "confidence": "high",
+  "pinNote": "Pin: Expo Living, Expo City Dubai (Dubai South). Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/terra-woods",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/terra-woods"
+ },
+ "uMShhfbo": {
+  "name": "Hayat Phase 7",
+  "lat": 24.92535,
+  "lng": 55.16401,
+  "community": "Hayat, Dubai South (Madinat Al Mataar)",
+  "confidence": "medium",
+  "pinNote": "Pin: Hayat, Dubai South (Madinat Al Mataar). Source: https://www.propertyfinder.ae/en/new-projects/dubai-south/hayat-7",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/dubai-south/hayat-7"
+ },
+ "Xc4phANf": {
+  "name": "Hayat Phase 7",
+  "lat": 24.92575,
+  "lng": 55.16441,
+  "community": "Hayat, Dubai South (Madinat Al Mataar)",
+  "confidence": "medium",
+  "pinNote": "Pin: Hayat, Dubai South (Madinat Al Mataar). Source: https://www.propertyfinder.ae/en/new-projects/dubai-south/hayat-7",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/dubai-south/hayat-7"
+ },
+ "59oR4eFd": {
+  "name": "Altair 52",
+  "lat": 24.90976,
+  "lng": 55.15435,
+  "community": "Dubai South, Residential District",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai South, Residential District. Source: https://www.propertyfinder.ae/en/new-projects/acube-abode-realty/altair-52",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/acube-abode-realty/altair-52"
+ },
+ "W1YACfzs": {
+  "name": "Iconic Residences",
+  "lat": 25.10155,
+  "lng": 55.1738,
+  "community": "Dubai Internet City, Sheikh Zayed Road (Al Sufouh / Al Thanyah 1)",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubai Internet City, Sheikh Zayed Road (Al Sufouh / Al Thanyah 1). Source: https://www.propertyfinder.ae/en/new-projects/mered-development/iconic-tower",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/mered-development/iconic-tower"
+ },
+ "1a0UD1io": {
+  "name": "Vivo South",
+  "lat": 24.85786,
+  "lng": 55.06087,
+  "community": "Saih Shuaib 2, Dubai Industrial City (Dubai South)",
+  "confidence": "medium",
+  "pinNote": "Pin: Saih Shuaib 2, Dubai Industrial City (Dubai South). Source: https://erehomes.ae/projects/vivo-residences-south-by-main-realty/",
+  "source_url": "https://erehomes.ae/projects/vivo-residences-south-by-main-realty/"
+ },
+ "E7N2O6QE": {
+  "name": "Arancia",
+  "lat": 25.08722,
+  "lng": 55.32519,
+  "community": "The Yards, City of Arabia",
+  "confidence": "high",
+  "pinNote": "Pin: The Yards, City of Arabia. Source: https://www.propertyfinder.ae/en/new-projects/beyond/arancia-yards",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/beyond/arancia-yards"
+ },
+ "lbsUbS9u": {
+  "name": "The Edit",
+  "lat": 25.18958,
+  "lng": 55.30175,
+  "community": "Dubai Design District (d3), creekside",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Design District (d3), creekside. Source: https://www.propertyfinder.ae/en/new-projects/meraas-holding/the-edit-at-d3",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/the-edit-at-d3"
+ },
+ "ufHq8rHZ": {
+  "name": "Crestlane",
+  "lat": 25.20822,
+  "lng": 55.25702,
+  "community": "City Walk, Al Wasl",
+  "confidence": "high",
+  "pinNote": "Pin: City Walk, Al Wasl. Source: https://www.propertyfinder.ae/en/new-projects/meraas-holding/city-walk-crestlane",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/meraas-holding/city-walk-crestlane"
+ },
+ "Zjh0F8CK": {
+  "name": "Chevalia Estate",
+  "lat": 24.96272,
+  "lng": 55.22299,
+  "community": "Chevalia Estate, Grand Polo Club & Resort, Dubai Investment Park 2",
+  "confidence": "medium",
+  "pinNote": "Pin: Chevalia Estate, Grand Polo Club & Resort, Dubai Investment Park 2. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/chevalia-estate",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/chevalia-estate"
+ },
+ "lzsgXXSx": {
+  "name": "Avelia",
+  "lat": 25.00497,
+  "lng": 55.45043,
+  "community": "The Valley (Al Yufrah 1)",
+  "confidence": "high",
+  "pinNote": "Pin: The Valley (Al Yufrah 1). Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/avelia",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/avelia"
+ },
+ "jgU46cxP": {
+  "name": "Selvara 3",
+  "lat": 24.97415,
+  "lng": 55.22086,
+  "community": "Grand Polo Club & Resort, Selvara 3, Dubai Investment Park 2",
+  "confidence": "medium",
+  "pinNote": "Pin: Grand Polo Club & Resort, Selvara 3, Dubai Investment Park 2. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/selvara-phase-3-by-emaar",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/selvara-phase-3-by-emaar"
+ },
+ "SEqF889r": {
+  "name": "Salva / Serro",
+  "lat": 24.96,
+  "lng": 55.24925,
+  "community": "The Heights Country Club & Wellness (Emaar)",
+  "confidence": "medium",
+  "pinNote": "Pin: The Heights Country Club & Wellness (Emaar). Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/salva-by-emaar",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/salva-by-emaar"
+ },
+ "mD65Z6eO": {
+  "name": "Alva",
+  "lat": 25.00882,
+  "lng": 55.43543,
+  "community": "The Valley, Al Yufrah 1",
+  "confidence": "high",
+  "pinNote": "Pin: The Valley, Al Yufrah 1. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/alva-the-valley",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/alva-the-valley"
+ },
+ "pQF1bDwf": {
+  "name": "Vida",
+  "lat": 25.10876,
+  "lng": 55.24389,
+  "community": "Dubai Hills Estate",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Hills Estate. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/vida-residences-dhe",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/vida-residences-dhe"
+ },
+ "6UPtiijX": {
+  "name": "Keturah Ardh",
+  "lat": 25.12603,
+  "lng": 55.43127,
+  "community": "Al Rowaiyah First (beside Dubai International Academic City)",
+  "confidence": "medium",
+  "pinNote": "Pin: Al Rowaiyah First (beside Dubai International Academic City). Source: https://www.geonames.org/13060580/al-rowaiyah-first.html",
+  "source_url": "https://www.geonames.org/13060580/al-rowaiyah-first.html"
+ },
+ "WBy8Tenu": {
+  "name": "Sobha Elwood",
+  "lat": 25.02078,
+  "lng": 55.45025,
+  "community": "Sobha Elwood, Al Yufrah 1 (Dubailand, Dubai–Al Ain Road)",
+  "confidence": "high",
+  "pinNote": "Pin: Sobha Elwood, Al Yufrah 1 (Dubailand, Dubai–Al Ain Road). Source: https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-elwood",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/sobha-real-estate-llc/sobha-elwood"
+ },
+ "49hhV03i": {
+  "name": "Address Zabeel",
+  "lat": 25.22574,
+  "lng": 55.29422,
+  "community": "Za'abeel 1",
+  "confidence": "high",
+  "pinNote": "Pin: Za'abeel 1. Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/address-residences-zabeel",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/address-residences-zabeel"
+ },
+ "sn3zpGEB": {
+  "name": "Solis",
+  "lat": 25.0488,
+  "lng": 55.24276,
+  "community": "Up Town Motor City, Motor City",
+  "confidence": "medium",
+  "pinNote": "Pin: Up Town Motor City, Motor City. Source: https://propsearch.ae/dubai/sobha-solis",
+  "source_url": "https://propsearch.ae/dubai/sobha-solis"
+ },
+ "vmReFADX": {
+  "name": "Dubai Jewel Tower",
+  "lat": 25.10229,
+  "lng": 55.17172,
+  "community": "Dubai Internet City, Al Sufouh",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Internet City, Al Sufouh. Source: https://mapcarta.com/W272587707",
+  "source_url": "https://mapcarta.com/W272587707"
+ },
+ "tT7RzNn6": {
+  "name": "Tavora Grande",
+  "lat": 25.14627,
+  "lng": 55.40329,
+  "community": "International City Phase 2 (Al Warsan 4)",
+  "confidence": "high",
+  "pinNote": "Pin: International City Phase 2 (Al Warsan 4). Source: https://www.propertyfinder.ae/en/new-projects/jhk-developments/tavora-grand",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/jhk-developments/tavora-grand"
+ },
+ "8bW5yjCO": {
+  "name": "MAG 777",
+  "lat": 25.03998,
+  "lng": 55.21917,
+  "community": "Dubai Sports City",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Sports City. Source: https://www.propertyfinder.ae/en/new-projects/mag-property-development/mag-777",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/mag-property-development/mag-777"
+ },
+ "eubqpOTW": {
+  "name": "Mirdad",
+  "lat": 25.04709,
+  "lng": 55.23268,
+  "community": "Motor City",
+  "confidence": "high",
+  "pinNote": "Pin: Motor City. Source: https://www.propertyfinder.ae/en/new-projects/union-properties-p-j-s-c/mirdad",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/union-properties-p-j-s-c/mirdad"
+ },
+ "RQ3rYdDZ": {
+  "name": "Takaya",
+  "lat": 25.04717,
+  "lng": 55.23508,
+  "community": "Motor City (Al Hebiah 1), Turin Boulevard",
+  "confidence": "medium",
+  "pinNote": "Pin: Motor City (Al Hebiah 1), Turin Boulevard. Source: https://1newhomes.ae/takaya-dubai",
+  "source_url": "https://1newhomes.ae/takaya-dubai"
+ },
+ "raZ3i55r": {
+  "name": "Hadley Heights 2",
+  "lat": 25.0404,
+  "lng": 55.21785,
+  "community": "Dubai Sports City (Al Hebiah Fourth)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Sports City (Al Hebiah Fourth). Source: https://www.propertyfinder.ae/en/new-projects/leos-international/hadley-heights-2",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/leos-international/hadley-heights-2"
+ },
+ "7KM8Uv5e": {
+  "name": "Stax",
+  "lat": 25.0579,
+  "lng": 55.20515,
+  "community": "JVC District 15",
+  "confidence": "medium",
+  "pinNote": "Pin: JVC District 15. Source: https://www.propertyfinder.ae/en/new-projects/pasha-one-development/stax-tower",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/pasha-one-development/stax-tower"
+ },
+ "b5ZKHEzm": {
+  "name": "Carmel Residences",
+  "lat": 25.05118,
+  "lng": 55.20893,
+  "community": "JVC District 13, Jumeirah Village Circle",
+  "confidence": "medium",
+  "pinNote": "Pin: JVC District 13, Jumeirah Village Circle. Source: https://propsearch.ae/dubai/carmel-residence",
+  "source_url": "https://propsearch.ae/dubai/carmel-residence"
+ },
+ "qe9MWQCO": {
+  "name": "Park Residency",
+  "lat": 25.14439,
+  "lng": 55.40093,
+  "community": "Al Warsan 4, International City Phase 2",
+  "confidence": "high",
+  "pinNote": "Pin: Al Warsan 4, International City Phase 2. Source: https://www.propertyfinder.ae/en/new-projects/park-group/park-residency",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/park-group/park-residency"
+ },
+ "sCiHckQ0": {
+  "name": "Wellness Estate",
+  "lat": 25.09294,
+  "lng": 55.31848,
+  "community": "Majan, Wadi Al Safa 3 (beside Al Barari)",
+  "confidence": "medium",
+  "pinNote": "Pin: Majan, Wadi Al Safa 3 (beside Al Barari). Source: https://propsearch.ae/dubai/vincitore-wellness-estate",
+  "source_url": "https://propsearch.ae/dubai/vincitore-wellness-estate"
+ },
+ "HPT9nRcr": {
+  "name": "Omya Residences",
+  "lat": 25.01939,
+  "lng": 55.10907,
+  "community": "Wasl Gate, Jebel Ali",
+  "confidence": "high",
+  "pinNote": "Pin: Wasl Gate, Jebel Ali. Source: https://www.propertyfinder.ae/en/new-projects/pantheon-development/omya-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/pantheon-development/omya-residences"
+ },
+ "Fg0uW4A9": {
+  "name": "Town Square",
+  "lat": 25.00434,
+  "lng": 55.29278,
+  "community": "Town Square, Al Yelayis 2",
+  "confidence": "medium",
+  "pinNote": "Pin: Town Square, Al Yelayis 2. Source: https://nshama.ae/town-square/",
+  "source_url": "https://nshama.ae/town-square/"
+ },
+ "8Sooeajh": {
+  "name": "Provenza Residences",
+  "lat": 25.0525,
+  "lng": 55.20508,
+  "community": "JVC District 14 (Al Barsha South Fourth)",
+  "confidence": "medium",
+  "pinNote": "Pin: JVC District 14 (Al Barsha South Fourth). Source: https://ikrdevelopment.com/portfolio/provenza-residences/",
+  "source_url": "https://ikrdevelopment.com/portfolio/provenza-residences/"
+ },
+ "ea9DZrnH": {
+  "name": "Tresora",
+  "lat": 25.05163,
+  "lng": 55.2064,
+  "community": "JVC District 14",
+  "confidence": "high",
+  "pinNote": "Pin: JVC District 14. Source: https://www.propertyfinder.ae/en/new-projects/wadan-developments/tresora-by-wadan",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/wadan-developments/tresora-by-wadan"
+ },
+ "4hhAiauO": {
+  "name": "11 Hills Park",
+  "lat": 25.07775,
+  "lng": 55.24683,
+  "community": "Dubai Science Park, Al Barsha South",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Science Park, Al Barsha South. Source: https://www.propertyfinder.ae/en/new-projects/townx-real-estate-development-l-l-c/11-park-hills",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/townx-real-estate-development-l-l-c/11-park-hills"
+ },
+ "IDyu4lZA": {
+  "name": "Beverly Grande",
+  "lat": 25.04507,
+  "lng": 55.23067,
+  "community": "Motor City",
+  "confidence": "high",
+  "pinNote": "Pin: Motor City. Source: https://propsearch.ae/dubai/beverly-grande",
+  "source_url": "https://propsearch.ae/dubai/beverly-grande"
+ },
+ "soW4T9ob": {
+  "name": "ELEVE",
+  "lat": 24.97857,
+  "lng": 55.09226,
+  "community": "Downtown Jebel Ali, Jebel Ali Industrial 2",
+  "confidence": "high",
+  "pinNote": "Pin: Downtown Jebel Ali, Jebel Ali Industrial 2. Source: https://www.propertyfinder.ae/en/buy/dubai/apartments-for-sale-jebel-ali-eleve-by-deyaar.html",
+  "source_url": "https://www.propertyfinder.ae/en/buy/dubai/apartments-for-sale-jebel-ali-eleve-by-deyaar.html"
+ },
+ "Ft5LOeJi": {
+  "name": "Ashley Hills",
+  "lat": 25.06663,
+  "lng": 55.23525,
+  "community": "Arjan, Al Barsha South 3",
+  "confidence": "medium",
+  "pinNote": "Pin: Arjan, Al Barsha South 3. Source: https://townx.com/our-properties/ashley-hills/",
+  "source_url": "https://townx.com/our-properties/ashley-hills/"
+ },
+ "GI7aNGKJ": {
+  "name": "Avana Residences",
+  "lat": 25.06762,
+  "lng": 55.20539,
+  "community": "Jumeirah Village Circle, District 10",
+  "confidence": "high",
+  "pinNote": "Pin: Jumeirah Village Circle, District 10. Source: https://www.propertyfinder.ae/en/new-projects/deca-properties/avana-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/deca-properties/avana-residences"
+ },
+ "oIHXg2IA": {
+  "name": "Olivia Residences",
+  "lat": 24.99799,
+  "lng": 55.16946,
+  "community": "Dubai Investments Park 1",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Investments Park 1. Source: https://www.propertyfinder.ae/en/new-projects/karma-development/olivia-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/karma-development/olivia-residences"
+ },
+ "c815YW9r": {
+  "name": "Trinity",
+  "lat": 25.06017,
+  "lng": 55.23502,
+  "community": "Arjan (Al Barsha South 3)",
+  "confidence": "medium",
+  "pinNote": "Pin: Arjan (Al Barsha South 3). Source: https://www.propertyfinder.ae/en/new-projects/karma-development/trinity-arjan",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/karma-development/trinity-arjan"
+ },
+ "4TnZqb4N": {
+  "name": "Aquora",
+  "lat": 25.29762,
+  "lng": 55.31951,
+  "community": "Dubai Islands, Island A (Central Island)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Islands, Island A (Central Island). Source: https://www.propertyfinder.ae/en/new-projects/casa-vista-development/aquora",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/casa-vista-development/aquora"
+ },
+ "Rwa8dEHM": {
+  "name": "Soma Residences",
+  "lat": 25.2893,
+  "lng": 55.30292,
+  "community": "Dubai Islands, Island A",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Islands, Island A. Source: https://www.propertyfinder.ae/en/new-projects/origami-developer/soma-residence",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/origami-developer/soma-residence"
+ },
+ "IApnKEbJ": {
+  "name": "Lia",
+  "lat": 25.30188,
+  "lng": 55.3148,
+  "community": "Island A, Dubai Islands",
+  "confidence": "medium",
+  "pinNote": "Pin: Island A, Dubai Islands. Source: https://erehomes.ae/projects/lia/",
+  "source_url": "https://erehomes.ae/projects/lia/"
+ },
+ "Vx9ilUfa": {
+  "name": "Flow Residences",
+  "lat": 25.28976,
+  "lng": 55.30271,
+  "community": "Dubai Islands, Island A (Palm Deira)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Islands, Island A (Palm Deira). Source: https://www.propertyfinder.ae/en/new-projects/main-realty/flow-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/main-realty/flow-residences"
+ },
+ "G3GFSWQw": {
+  "name": "House of Well",
+  "lat": 25.29073,
+  "lng": 55.30429,
+  "community": "Dubai Islands, Island A (Central Island)",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubai Islands, Island A (Central Island). Source: https://www.propertyfinder.ae/en/new-projects/well-concept/house-of-well-2",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/well-concept/house-of-well-2"
+ },
+ "portal-1984": {
+  "name": "Kingdom Gate",
+  "lat": 25.0386,
+  "lng": 55.13698,
+  "community": "Al Furjan",
+  "confidence": "medium",
+  "pinNote": "Pin: Al Furjan. Source: https://www.propertyfinder.ae/en/new-projects/kingdom-development/kingdom-gate",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/kingdom-development/kingdom-gate"
+ },
+ "portal-1983": {
+  "name": "Tessera Residences",
+  "lat": 24.94997,
+  "lng": 55.22449,
+  "community": "Dubai South Residential District (The Pulse area)",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubai South Residential District (The Pulse area). Source: https://portal.mpd.ae/properties/1983",
+  "source_url": "https://portal.mpd.ae/properties/1983"
+ },
+ "portal-1982": {
+  "name": "Ashwood Residences",
+  "lat": 25.03639,
+  "lng": 55.17762,
+  "community": "Jumeirah Village Triangle, District 2 (Al Barsha South Fifth)",
+  "confidence": "high",
+  "pinNote": "Pin: Jumeirah Village Triangle, District 2 (Al Barsha South Fifth). Source: https://www.propertyfinder.ae/en/new-projects/skyland-properties/ashwood-residences",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/skyland-properties/ashwood-residences"
+ },
+ "portal-1979": {
+  "name": "Violet 4 at Damac Hills 2",
+  "lat": 24.98447,
+  "lng": 55.38308,
+  "community": "Violet, DAMAC Hills 2 (Madinat Hind 4)",
+  "confidence": "high",
+  "pinNote": "Pin: Violet, DAMAC Hills 2 (Madinat Hind 4). Source: https://www.propertyfinder.ae/en/new-projects/damac-properties/violet-phase-4",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/damac-properties/violet-phase-4"
+ },
+ "portal-1977": {
+  "name": "The Residences at the Dubai Beach Edition",
+  "lat": 25.09563,
+  "lng": 55.13816,
+  "community": "Dubai Harbour (Emaar Beachfront)",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubai Harbour (Emaar Beachfront). Source: https://www.openstreetmap.org/way/1156814571",
+  "source_url": "https://www.openstreetmap.org/way/1156814571"
+ },
+ "portal-1976": {
+  "name": "Avenue Park Towers II",
+  "lat": 25.23356,
+  "lng": 55.29306,
+  "community": "Al Kifaf (Wasl 1, by Zabeel Park)",
+  "confidence": "high",
+  "pinNote": "Pin: Al Kifaf (Wasl 1, by Zabeel Park). Source: https://portal.mpd.ae/properties/1976",
+  "source_url": "https://portal.mpd.ae/properties/1976"
+ },
+ "portal-1972": {
+  "name": "Greenway 2",
+  "lat": 24.84936,
+  "lng": 55.15871,
+  "community": "Emaar South (Dubai South)",
+  "confidence": "high",
+  "pinNote": "Pin: Emaar South (Dubai South). Source: https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenway-2",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/emaar-properties/greenway-2"
+ },
+ "portal-1969": {
+  "name": "Binghatti Spectre",
+  "lat": 25.22286,
+  "lng": 55.33855,
+  "community": "Al Jaddaf (Culture Village side)",
+  "confidence": "medium",
+  "pinNote": "Pin: Al Jaddaf (Culture Village side). Source: https://portal.mpd.ae/properties/1969",
+  "source_url": "https://portal.mpd.ae/properties/1969"
+ },
+ "portal-1968": {
+  "name": "Olfah 6 by Alef",
+  "lat": 25.28387,
+  "lng": 55.45373,
+  "community": "Olfah, Muwaileh Commercial (Sharjah)",
+  "confidence": "high",
+  "pinNote": "Pin: Olfah, Muwaileh Commercial (Sharjah). Source: https://www.propertyfinder.ae/en/new-projects/alef-group/olfah-6",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/alef-group/olfah-6"
+ },
+ "portal-1966": {
+  "name": "District One West - Phase 1",
+  "lat": 25.14474,
+  "lng": 55.2776,
+  "community": "District One West, MBR City",
+  "confidence": "medium",
+  "pinNote": "Pin: District One West, MBR City. Source: https://www.propertyfinder.ae/en/new-projects/nakheel/district-one-west",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/nakheel/district-one-west"
+ },
+ "portal-1965": {
+  "name": "Samana Business Hub",
+  "lat": 24.97478,
+  "lng": 55.09144,
+  "community": "Downtown Jebel Ali (Sheikh Zayed Rd)",
+  "confidence": "medium",
+  "pinNote": "Pin: Downtown Jebel Ali (Sheikh Zayed Rd). Source: https://portal.mpd.ae/properties/1965",
+  "source_url": "https://portal.mpd.ae/properties/1965"
+ },
+ "portal-1961": {
+  "name": "Bay Estate by Nakheel Dubai Islands",
+  "lat": 25.3226,
+  "lng": 55.31303,
+  "community": "Dubai Islands (Island E per Nakheel)",
+  "confidence": "low",
+  "pinNote": "Pin: Dubai Islands (Island E per Nakheel). Source: https://portal.mpd.ae/properties/1961",
+  "source_url": "https://portal.mpd.ae/properties/1961"
+ },
+ "portal-1960": {
+  "name": "The Archive by Imtiaz",
+  "lat": 25.09131,
+  "lng": 55.37828,
+  "community": "Dubailand Residence Complex (DLRC), Wadi Al Safa 5",
+  "confidence": "medium",
+  "pinNote": "Pin: Dubailand Residence Complex (DLRC), Wadi Al Safa 5. Source: https://www.propertyfinder.ae/en/new-projects/dev/imtiaz-developments/dubai",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/dev/imtiaz-developments/dubai"
+ },
+ "portal-1959": {
+  "name": "Peace Avenue",
+  "lat": 24.97102,
+  "lng": 55.08857,
+  "community": "Downtown Jebel Ali",
+  "confidence": "medium",
+  "pinNote": "Pin: Downtown Jebel Ali. Source: https://propsearch.ae/dubai/peace-avenue",
+  "source_url": "https://propsearch.ae/dubai/peace-avenue"
+ },
+ "portal-1957": {
+  "name": "Natuzzi Harmony Residences",
+  "lat": 25.29008,
+  "lng": 55.30325,
+  "community": "Dubai Islands, Island A (Palm Deira)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Islands, Island A (Palm Deira). Source: https://www.propertyfinder.ae/en/area-insights/dubai/compounds-and-towers/dubai-islands-natuzzi-harmony-residences-by-peace-homes",
+  "source_url": "https://www.propertyfinder.ae/en/area-insights/dubai/compounds-and-towers/dubai-islands-natuzzi-harmony-residences-by-peace-homes"
+ },
+ "portal-1956": {
+  "name": "Peace Lagoons",
+  "lat": 25.09813,
+  "lng": 55.3805,
+  "community": "Dubai Land Residence Complex, Wadi Al Safa 5",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Land Residence Complex, Wadi Al Safa 5. Source: https://www.bayut.com/buildings/peace-lagoons-by-peace-homes/",
+  "source_url": "https://www.bayut.com/buildings/peace-lagoons-by-peace-homes/"
+ },
+ "portal-1955": {
+  "name": "Sky Line by Peace Homes",
+  "lat": 25.09516,
+  "lng": 55.38243,
+  "community": "Dubai Land Residence Complex (DLRC)",
+  "confidence": "high",
+  "pinNote": "Pin: Dubai Land Residence Complex (DLRC). Source: https://www.propertyfinder.ae/en/new-projects/peace-homes-group/sky-line",
+  "source_url": "https://www.propertyfinder.ae/en/new-projects/peace-homes-group/sky-line"
+ }
+}

@@ -1,0 +1,1071 @@
+{
+  "board": "Dubai",
+  "boardUrl": "https://trello.com/b/HdegR3Aa/dubai",
+  "boardId": "6aa63bf6b16c7ecb95ea137e",
+  "shortLink": "HdegR3Aa",
+  "exportedAt": "2026-09-23T16:48:50.778716+04:00",
+  "source": "user-trello MCP live pull",
+  "boardLastActivityAt": "2026-09-21T11:55:25.876Z",
+  "note": "Skip list WHAT IS THE UPDATE for inventory pins; area lists only. Live pull via connected Trello MCP (no browser secrets).",
+  "cardCount": 96,
+  "skippedWhatIsTheUpdate": 9,
+  "mapPinCount": 87,
+  "cards": [
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4baccaf675301fa8d4be",
+      "name": "Soulever – Beyond – From AED 2.978M",
+      "desc": "**Materials (Drive):**\n- [Soulever .pdf](https://drive.google.com/file/d/1v0GbBmcZzwDBJAtAv2GHKV7gEVlKhtqK/view?usp=drivesdk)\n- [Soulever inventory .pdf](https://drive.google.com/file/d/1hThaVCy1mbZmgTHz2boK7puf8HrpRPKG/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Beyond inventory sheets dated 17 Sep 2026.\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Beyond / Soulever By Beyond\n\n**Starting prices by layout** (inventory 17 Sep 2026)\n- 1BR: From AED 2,978,000\n- 3BR: From AED 7,936,000\n- Podium 2BR: about AED 12.4–12.6M\n\nSource: Soulever .pdf / Soulever inventory .pdf",
+      "url": "https://trello.com/c/iFMMkea9/99-soulever-beyond-from-aed-2978m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4baafc70f291c20ef8d6",
+      "name": "Kanyon – Beyond – From AED 3.928M",
+      "desc": "**Materials (Drive):**\n- [Kanyon .pdf](https://drive.google.com/file/d/1RSwX5-l5Px3q4z7oNnvHkY681LDxPV1_/view?usp=drivesdk)\n- [Kanyon inventory .pdf](https://drive.google.com/file/d/1v9GdfYDMTGE3qvVvtw5NM6iWooKWuoRZ/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Beyond inventory sheets dated 17 Sep 2026.\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Beyond / Kanyon By Beyond\n\n**Starting prices by layout** (inventory 17 Sep 2026)\n- 2BR: From AED 3,928,000 (KAN/11/1102, 1,388 sqft)\n\nSource: Kanyon .pdf / Kanyon inventory .pdf",
+      "url": "https://trello.com/c/zxg4uP8R/98-kanyon-beyond-from-aed-3928m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4b9b712956c64a80be86",
+      "name": "Palm Central – Nakheel – From AED 4.27M",
+      "desc": "**Materials (Drive):**\n- [PDF document-4F3E-A904-AC-0.pdf](https://drive.google.com/file/d/1qsdljAXbvSawL-jb-VZsZIgYuwh7czzH/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep).\n\n**Type:** Apartments\n**Area:** Other waterfront (Palm / Palm Jebel Ali area)\n**Developer / Project:** Nakheel / Palm Central\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 2BR: From AED 4.270M\n\nSource: PDF document-4F3E-A904-AC-0.pdf",
+      "url": "https://trello.com/c/JkACh2pp/94-palm-central-nakheel-from-aed-427m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4b8faec0d5fdb00be1b7",
+      "name": "Port De La Mer – Meraas – From AED 27.75M",
+      "desc": "**Materials (Drive):**\n- [Port De La Mer.pdf](https://drive.google.com/file/d/1AhIvoJzPf1ibj452aNQYt61V6PTlYY3i/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep). Unit options — not a new launch price list.\n\n**Type:** Villas / apartments (La Voile, Le Ciel)\n**Area:** Other waterfront (La Mer)\n**Developer / Project:** Meraas / Port De La Mer\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 5BR (La Voile): From AED 27.75M\n- 6BR: AED 34.8M\n- Le Ciel 5BR: AED 48.63M\n\nSource: Port De La Mer.pdf",
+      "url": "https://trello.com/c/RdCHWWvg/91-port-de-la-mer-meraas-from-aed-2775m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa48051a4d0a0771c3daed",
+      "name": "Passo Bella – Beyond – From AED 6,635,000",
+      "desc": "**Materials (Drive):**\n- [Beyond Availability .pdf](https://drive.google.com/file/d/1pgoMcGZbTosbyo4NHXyisq7qKS9mNMzs/view?usp=drivesdk)\n- [1302 Bella.pdf](https://drive.google.com/file/d/1dg4XepVoJBZaQi-uOVFhW9w4I-2GSsZx/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Beyond / Passo Bella\n\n**Starting prices by layout** (Beyond Availability 14-Sep-2026)\n- 2BR: From AED 6,635,000\n\n**Unit offer B1302** (08-Sep-2026): 2BR Beach Elite AED 9,910,000; total 1,334.40 sq ft; completion 2029 Q3; plan ~40/60\n\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/iwz3NKfM/88-passo-bella-beyond-from-aed-6635000",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa4801ab287f93f9ffd5fd",
+      "name": "Passo Avita – Beyond – From AED 4,648,000",
+      "desc": "**Materials (Drive):**\n- [Beyond Availability .pdf](https://drive.google.com/file/d/1pgoMcGZbTosbyo4NHXyisq7qKS9mNMzs/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Beyond / Passo Avita\n\n**Starting prices by layout** (Beyond Availability 14-Sep-2026)\n- 1BR: From AED 4,648,000\n\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/Zi9yLbVM/87-passo-avita-beyond-from-aed-4648000",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47fedad8d2749a133885",
+      "name": "Hado By Beyond – Beyond – From AED 2,823,000",
+      "desc": "**Materials (Drive):**\n- [Beyond Availability .pdf](https://drive.google.com/file/d/1pgoMcGZbTosbyo4NHXyisq7qKS9mNMzs/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Beyond / Hado By Beyond\n\n**Starting prices by layout** (Beyond Availability 14-Sep-2026; mins across towers A/B/C)\n- 1BR: From AED 2,823,000 (Tower B)\n\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/W8ihHiFj/86-hado-by-beyond-beyond-from-aed-2823000",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47fc7529cfabbecb25e5",
+      "name": "Aria By Beyond – Beyond – From AED 4,328,000",
+      "desc": "**Materials (Drive):**\n- [Beyond Availability .pdf](https://drive.google.com/file/d/1pgoMcGZbTosbyo4NHXyisq7qKS9mNMzs/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Beyond / Aria By Beyond\n\n**Starting prices by layout** (Beyond Availability 14-Sep-2026)\n- 2BR: From AED 4,328,000\n- 3BR: From AED 15,038,000\n- 4BR: From AED 19,031,000\n\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/vqa5OvD1/85-aria-by-beyond-beyond-from-aed-4328000",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47f94e123c49d456bafc",
+      "name": "Solaya – Meraas / Brookfield – From AED 40.3M",
+      "desc": "**Materials (Drive):**\n- [Solaya_Factsheet.pdf](https://drive.google.com/file/d/1VR--pBVcAj78QosAOmdSuyC4L1gu1Gct/view?usp=drivesdk)\n- [Solaya 3BR (3456).pdf](https://drive.google.com/file/d/1yclHAhrLwA_L4ikVfYErO0dmmjA2Z5ML/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep). 3BR unit offer from AED 40.348M. Unit options — not a new launch price list.\n\n**Type:** Apartments (3–5BR + penthouses)\n**Area:** Jumeirah beachfront / Other waterfront\n**Developer / Project:** Meraas and Brookfield Properties / Solaya\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 3BR: From AED 40.348M\n\n234 residences; Foster + Partners / 1508 London. Do not attribute to H&H.\n\nSource: Solaya_Factsheet.pdf; Solaya 3BR (3456).pdf\nLast update: 2026-09-19 noon",
+      "url": "https://trello.com/c/YF2tZKAc/84-solaya-meraas-brookfield-from-aed-403m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa204b73c9f06e422dd283",
+      "name": "Palm Jebel Ali Frond F Coral Collection – Nakheel – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Villas\n**Area:** Palm Jebel Ali – Frond F\n**Developer / Project:** Nakheel / The Coral Collection\n\nStarting prices by layout: not stated in WhatsApp materials this pass\n\nFloor plans attached in chat (Coral Collection floor plans ~10MB — local download blocked by app crash)\nAlso referenced: Palm Jebel Ali Frond F Digital Brochure.pdf (~50MB — Drive when downloaded)\n\nSource: WhatsApp Nakheel/D1MPD — 2026-09-16 sync\nLast update: 2026-09-16\nPending: starting prices + brochure/floor-plan attach\n",
+      "url": "https://trello.com/c/FlijBFQv/74-palm-jebel-ali-frond-f-coral-collection-nakheel-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa2048cd3e98895eca0150",
+      "name": "Palm Jebel Ali Frond F Beach Collection – Nakheel – From AED n/a",
+      "desc": "**Materials (Drive):**\n- [Palm Jebel Ali-Frond F-The Beach Collection Floor Plans.pdf](https://drive.google.com/file/d/10_vzkSTz_U424tzvjTgiiTCfnMbPEarl/view?usp=drivesdk)\n\n**Type:** Villas\n**Area:** Palm Jebel Ali – Frond F\n**Developer / Project:** Nakheel / The Beach Collection\n\nStarting prices by layout: not stated in sources yet (From AED n/a)\n\nAlso referenced: Palm Jebel Ali Frond F Digital Brochure.pdf (~50MB — Drive when downloaded)\n\nSource: WhatsApp Nakheel/D1MPD — 2026-09-16 11am\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/96AnhhmB/73-palm-jebel-ali-frond-f-beach-collection-nakheel-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6258f3d318e0dcaa03cbb",
+      "name": "Aria Grande – Amali Properties – From AED 112M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Villas\n**Area:** Other waterfront\n**Developer / Project:** Amali Properties (Ali/Amira Sajwani boutique; DAMAC-family context) / Aria Grande / Villa Aria on Amali Island\n\n**Starting prices by layout**\n- Starting: Online Aria from ~AED 112M\n\nPSF: n/a\nPayment plan: often 5/55/40 or 60/40\nHandover: community ~Q1 2027\nUnits/stock note: 44,199 sq ft plot / 20,934 sq ft sellable (WA)\n\nLast update: 2026-09-13\nPending: confirm live ask / brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/7QA9intd/8-aria-grande-amali-properties-from-aed-112m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e573f10e8cbb6c7fe77",
+      "name": "Starfall – Binghatti – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other waterfront\n**Developer / Project:** Binghatti Developers / Binghatti Starfall\n\nStarting prices by layout: not stated in sources yet\n- Note: Pricing TBA at launch (sources)\n\nPSF: n/a\nPayment plan: n/a\nHandover: Q4 2027\nUnits/stock note: ~525 residential + 18 commercial; 19-storey\n\nLast update: 2026-09-13\nPending: brochure / PSF / Property Monitor yield\n",
+      "url": "https://trello.com/c/Zvz6zWyR/7-starfall-binghatti-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665769a57c3db4255a1a7",
+      "listName": "Other waterfront",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4b9ffa2f7c9ae7233844",
+      "name": "Nourelle – Meraas – From AED 3.93M",
+      "desc": "**Materials (Drive):**\n- [Nourelle MJL.pdf](https://drive.google.com/file/d/1FDk1do6cTLk1jskXoyvSbDJp6Wm5gRiy/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep).\n\n**Type:** Apartments\n**Area:** Meydan (MJL)\n**Developer / Project:** Meraas / Nourelle\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 1BR: From AED 3.927M\n- 2BR: From AED 5.451M\n- 3BR: AED 8.959M\n\nSource: Nourelle MJL.pdf",
+      "url": "https://trello.com/c/DC03m3Hz/96-nourelle-meraas-from-aed-393m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657e591520ee267f73b7",
+      "listName": "Meydan",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e791e7e0a205db638f3",
+      "name": "Knightsbridge Park 2 – LEOS – From AED 13.8M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Villas\n**Area:** Meydan\n**Developer / Project:** LEOS Developments / Knightsbridge Park 2\n\n**Starting prices by layout**\n- 5BR: Type C ~AED 13.8M; ~6,005 sq ft saleable (~AED 2,300/sq ft)\n- 6BR: Type D ~AED 23.2–23.9M\n\nPSF: AED ~2,300/sq ft (derived)\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/2OY5Q72o/10-knightsbridge-park-2-leos-from-aed-138m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657e591520ee267f73b7",
+      "listName": "Meydan",
+      "due": null,
+      "labels": [
+        "Villas",
+        "2,000–3,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e5b59cd6938c9fa5fd3",
+      "name": "Knightsbridge Park – LEOS – From AED 7.94M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Townhouses\n**Area:** Meydan\n**Developer / Project:** LEOS Developments / Knightsbridge Park\n\n**Starting prices by layout**\n- 4BR: TH ~AED 7.94M / ~3,971 sq ft saleable (~AED 2,000/sq ft)\n\nPSF: AED ~2,000/sq ft (derived)\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/oZpZkcnz/11-knightsbridge-park-leos-from-aed-794m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657e591520ee267f73b7",
+      "listName": "Meydan",
+      "due": null,
+      "labels": [
+        "1,000–2,000",
+        "Townhouses"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e7bcbb03c60756f6ac4",
+      "name": "Mews Mansions – DGP / Al Ali – From AED 75M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Mansions\n**Area:** Meydan\n**Developer / Project:** Dubai General Properties (DGP), development arm of Al Ali Property Investment / API / Mews Mansions\n\n**Starting prices by layout**\n- Starting: From AED 75M (stated in sources)\n\nPSF: n/a\nPayment plan: n/a\nHandover: completion cited Q4 2025–2026 online\nUnits/stock note: 10× 5BR; WA ~AED 75M one unit; plot ~15.5k / BUA ~25k sq ft\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/iEiaQ81h/9-mews-mansions-dgp-al-ali-from-aed-75m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657e591520ee267f73b7",
+      "listName": "Meydan",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa62351481d33cae479d9b7",
+      "name": "Keturah Reserve – MAG – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Meydan\n**Developer / Project:** MAG Group / MAG Property Development (Keturah brand) / Keturah Reserve\n\nStarting prices by layout: not stated in sources yet\n\nPSF: n/a\nPayment plan: n/a\nHandover: ~Q2 2026–2027 (online)\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: prices/PSF from PDF / Property Monitor yield\n",
+      "url": "https://trello.com/c/n8SWnO7H/25-keturah-reserve-mag-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657e591520ee267f73b7",
+      "listName": "Meydan",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4bb070f2b9064493edc5",
+      "name": "Serene at Sobha Central – Sobha – From AED n/a",
+      "desc": "**Materials (Drive):**\n- [THE SERENE AT SOBHA CENTRAL - BROCHURE 2026_SEPT.pdf](https://drive.google.com/file/d/1LtjG3pQjmLtBR9YmUd-7GTYHCpCk-U-j/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** New September 2026 brochure for The Serene at Sobha Central (Team Dmitry, 19 Sep). Also SOBHA INVENTORY 31 AUG 2026.xlsx covering Hartland II / Riverside Crescent layouts.\n\n**Type:** Apartments\n**Area:** Dubai Land\n**Developer / Project:** Sobha / The Serene at Sobha Central\n\n**Starting prices by layout:** not stated in brochure header\n\nSource: THE SERENE AT SOBHA CENTRAL - BROCHURE 2026_SEPT.pdf",
+      "url": "https://trello.com/c/uDdbSXEY/102-serene-at-sobha-central-sobha-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4bafdf8733413e4d6ebd",
+      "name": "Tranquil at Sobha Central – Sobha – From AED n/a",
+      "desc": "**Materials (Drive):**\n- [THE TRANQUIL AT SOBHA CENTRAL_BROCHURE_2026_SEPT.pdf](https://drive.google.com/file/d/1RfsytIGYfXcjXojv-pM-MmU1S7pdeBjKA/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** New September 2026 brochure for The Tranquil at Sobha Central (Team Dmitry, 19 Sep).\n\n**Type:** Apartments\n**Area:** Dubai Land\n**Developer / Project:** Sobha / The Tranquil at Sobha Central\n\n**Starting prices by layout:** not stated in brochure header\n\nSource: THE TRANQUIL AT SOBHA CENTRAL_BROCHURE_2026_SEPT.pdf",
+      "url": "https://trello.com/c/puvEuhbQ/101-tranquil-at-sobha-central-sobha-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa627f0aa3012de9ab51199",
+      "name": "Sobha City Dubai – Sobha – From AED 5.09M",
+      "desc": "**Materials (Drive):**\n- [SCY-RC-B917 2 bed with terrace Canal view .pdf](https://drive.google.com/file/d/1WkApGGFf-EkS0ZWOKF3BGSSpQNaBiSom/view?usp=drivesdk)\n- [SOBHA INVENTORY 31 AUG 2026.xlsx](https://drive.google.com/file/d/1Dsupo9LSoU4pDlMFFMlMuYe2Zdsroug6/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Unit quotation SCY-RC-B917 (Team Zarina, 17 Sep) — floor 9, 2BR Type H, saleable 1,548 sqft, purchase price AED 3,948,391. Booking 20% (AED 789,678), then 5% at 6 months. Pre-registration fees AED 79,418. Canal view with terrace. Also Team Dmitry posted SOBHA INVENTORY 31 AUG 2026.xlsx (Hartland II / Riverside Crescent layouts).\n\n**Type:** Townhouses (+ Riverside Crescent apartment unit offers noted)\n**Area:** Dubai Land\n**Developer / Project:** Sobha Realty / Sobha City (Dubai) — distinct from Abu Dhabi Sobha City card\n\n**Starting prices by layout**\n- 3BR TH: cancellation SCY-TR-2914/2327 AED 5,092,314.33 @ 2,578.39 sqft (~AED 1,975/sqft)\n- 2BR apt sample (SCY-RC-B917): AED 3,948,391 @ 1,548 sqft\n\nLast update: 2026-09-19 noon",
+      "url": "https://trello.com/c/7pfzZsLJ/13-sobha-city-dubai-sobha-from-aed-509m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "1,000–2,000",
+        "Townhouses"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6113f00b604621c70856d",
+      "name": "Sobha Sanctuary – Sobha – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Townhouses\n**Area:** Dubai Land\n**Developer / Project:** Sobha / Sobha Sanctuary\n\nStarting prices by layout: not stated in sources yet\n\nPSF: n/a\nPayment plan: 40/60\nHandover: n/a\nUnits/stock note: ~1,000 townhouses; 38M sq ft masterplan; 60% open space; service charge AED 4.5/sq ft; 4% DLD waiver\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/4IHyRuJ5/14-sobha-sanctuary-sobha-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Townhouses"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa627f13bc14ecb72bbdf0a",
+      "name": "The Orchard – Sobha – From AED 9M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Villas\n**Area:** Dubai Land\n**Developer / Project:** Sobha Realty / The Orchard at Sobha City (Dubai)\n\n**Starting prices by layout**\n- Starting: From AED 9M+ (stated)\n\nPSF: n/a\nPayment plan: not stated in chat\nHandover: not stated in chat\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/PREylJlj/12-the-orchard-sobha-from-aed-9m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6113cf3f69e3d9ec75b8a",
+      "name": "Ghaf Woods – Majid Al Futtaim – From AED 1M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land\n**Developer / Project:** Majid Al Futtaim / Ghaf Woods (20-storey / DISTRIKT Building 2)\n\n**Starting prices by layout**\n- 1BR: ~575–620 sq ft, ~AED 1.0–1.3M\n- 2BR: ~950–1,050 sq ft, ~AED 1.9–2.3M\n\nPSF: AED ~1,613–2,261/sq ft (derived; not quoted as PSF in chat)\nPayment plan: ~50/50 or 60/40\nHandover: Q4 2029–Q1 2030\nUnits/stock note: 349 units: 209×1BR + 140×2BR; service charge ~AED 18/sq ft\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/dWgx9MGX/34-ghaf-woods-majid-al-futtaim-from-aed-1m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa627eba5af75fdae33f9c5",
+      "name": "Woods Abode – Sobha – From AED 1.04M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land\n**Developer / Project:** Sobha Realty / The Woods Abode at Sobha Sanctuary\n\n**Starting prices by layout**\n- 1BR: 540 sq ft AED 1,041,833 (~AED 1,929/sq ft); from ~AED 1.04M\n\nPSF: AED ~1,929/sq ft\nPayment plan: 40/60 (some posts 60/40)\nHandover: ~Q3–Q4 2029 online\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/brqLYkiv/20-woods-abode-sobha-from-aed-104m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619d18ad644fd1c8a1d8b",
+      "name": "DLRC 2BR stock – WADAN – From AED 1.5M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land\n**Developer / Project:** WADAN Developments / WADAN unit stock in DLRC (project name not separately branded in chat)\n\n**Starting prices by layout**\n- 2BR: 2BR+maid 1,225 sq ft AED 1.5M (~AED 1,224/sq ft)\n\nPSF: AED 1,224/sq ft\nPayment plan: 50/50\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: confirm project name / Property Monitor yield\n",
+      "url": "https://trello.com/c/RRz6MBt0/31-dlrc-2br-stock-wadan-from-aed-15m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619b1a36ee93b5bb1c679",
+      "name": "09 Life Residences – Deniz Properties – From AED 687.3K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land\n**Developer / Project:** Deniz Properties / 09 Life Residences\n\n**Starting prices by layout**\n- Studio: 413 sq ft AED 687,299 (~1,665/sq ft)\n- 3BR: 3BR+maid 1,578 sq ft AED 2,000,129 (~1,267/sq ft)\n\nPSF: AED 1,020–1,665/sq ft (examples)\nPayment plan: PHPP options\nHandover: Q4 2027 / ~18 months\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/Y0k4gASq/32-09-life-residences-deniz-properties-from-aed-6873k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa90d55c78ca130fefe5301",
+      "name": "The Wow – Mr Eight – From AED 1,183,000",
+      "desc": "**Materials (Drive):**\n- [sales-offer-3211.pdf](https://drive.google.com/file/d/17_0BBcVc6mwKiNT3bbcvVNXz6PnKxWrs/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Dubai Land Complex\n**Developer / Project:** Mr Eight (MR.EIGHT Branded Residences) / The Wow / The Wow Tower\n\n**Starting prices by layout**\n- 1BR Suite 3211, floor 32 — Selling Price AED 1,183,000; TOTAL with DLD+admin AED 1,235,320. Total 677.80 sq ft (suite 530.55 + balcony 147.25). Semi-furnished; 1 parking.\n\nPayment: booking fee AED 70,000 (non-refundable); construction installments (incl. 10% at 30% ready, 10% at 75%, 10% at 100%); post-handover 15%/15%/10% at 6/12/18 months (35/65-style).\nHandover / completion: Q3 2029 (under construction).\nOffer note: sales offer valid 24h / subject to availability.\n\nLast update: 2026-09-16 11am\nOffice 418.pdf in same chat — commercial, excluded.",
+      "url": "https://trello.com/c/apYuZt4D/58-the-wow-mr-eight-from-aed-1183000",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa0e8b7c320b92344b0481",
+      "name": "Milos – DECA – From AED 1,101,707",
+      "desc": "**Materials (Drive):** https://drive.google.com/file/d/1LdF6dL7s5hX2AcLZoyV6aWneJ9BBGf5X/view?usp=drivesdk\n\n**Type:** Apartments\n**Area:** Dubai Land Complex\n**Developer / Project:** DECA Properties / Milos\n\n**Starting prices by layout**\n- 1BR: AED 1,101,707.\n\nLast update: 2026-09-15\nSource file: DECA - ALL PROJECTS - INVENTORY LIST - 15.09.2026.pdf.",
+      "url": "https://trello.com/c/Hwpn7awU/64-milos-deca-from-aed-1101707",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e59bc0bb9d2592f6f20",
+      "name": "AUM99 Residences – AG Properties – From AED 624K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land Complex\n**Developer / Project:** AUM 99 Home Real Estate Developments LLC (under AG Properties) / AUM99 Residences\n\n**Starting prices by layout**\n- Studio: from ~AED 624K @ AED 1,525/sq ft (WA list 09-09-2026)\n- 1BR: ~AED 1,300–1,325/sq ft\n\nPSF: AED 1,525/sq ft (studio example)\nPayment plan: n/a\nHandover: ~Q3–Q4 2028 / Mar 2029 (sources vary)\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: attach / Property Monitor yield\n",
+      "url": "https://trello.com/c/kKvR3Reh/33-aum99-residences-ag-properties-from-aed-624k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61d6e9a530c11fad5ae0b",
+      "name": "Weybridge Gardens 5 – LEOS – From AED 1.6M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land Complex\n**Developer / Project:** LEOS Developments / Weybridge Gardens 5\n\n**Starting prices by layout**\n- 2BR: 1,242 sq ft AED 1,603,074\n- 3BR: ~1,484–1,556 sq ft AED 1.89M–1.99M (~AED 1,274/sq ft)\n\nPSF: AED ~1,274/sq ft\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/TD1OmH79/35-weybridge-gardens-5-leos-from-aed-16m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61d6c63c547a85fadaf72",
+      "name": "Weybridge Gardens 4 – LEOS – From AED 1.54M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Land Complex\n**Developer / Project:** LEOS Developments / Weybridge Gardens 4\n\n**Starting prices by layout**\n- 1BR: 1,515 sq ft AED 1,569,826\n- 2BR: 1,208 sq ft AED 1,542,644 (~AED 1,277/sq ft); also 1,428 sq ft AED 1,852,447\n- 3BR: 1,560 sq ft AED 2,502,117\n\nPSF: AED ~1,277/sq ft\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/QX5P2i0i/37-weybridge-gardens-4-leos-from-aed-154m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658128578f73da69c11c",
+      "listName": "Dubai Land",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619b26f9f1e42b7844776",
+      "name": "Nirvana Residence I – Meraki – From AED 1.23M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Production City\n**Developer / Project:** Meraki Developments / Nirvana Residence I\n\n**Starting prices by layout**\n- 1BR: from ~AED 1.23M (~AED 1,641/sq ft example)\n\nPSF: AED ~1,641/sq ft\nPayment plan: 100% + ROI or 40/60\nHandover: Q4 2028\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: availability PDF / Property Monitor yield\n",
+      "url": "https://trello.com/c/6OgQOpPU/39-nirvana-residence-i-meraki-from-aed-123m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66588b4231da028858c7c",
+      "listName": "Production City",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47e08e88da7fb6c6842e",
+      "name": "Creek Haven – Emaar – From AED 3.4M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Creek Harbour\n**Developer / Project:** Emaar / Creek Haven\n\n**Starting prices by layout** (Focused Projects Sep 2026)\n- 2BR: 1,189 sq ft — From AED 3.4M\n- 3BR: 1,863 sq ft — From AED 5.4M\n\nCompletion: 2030\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/b1E96tZg/77-creek-haven-emaar-from-aed-34m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66577b7e370624ffafbb8",
+      "listName": "Creek Harbour",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa1aa37252d26eeae725a5",
+      "name": "Valia – Emaar – From AED 1.96M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Dubai Creek Harbour (first tower next to new Dubai Square Mall)\n**Developer / Project:** Emaar / Valia\n\n**Starting prices by layout** (Emaar Focused Projects – Apartments, Sep 2026)\n- 1BR: 817 sq ft — From AED 1.96M\n- 2BR: 1,242 sq ft — From AED 2.81M\n- 3BR: 1,652 sq ft — From AED 4.10M\n- 4BR: 2,561 sq ft — From AED 6.97M\n\nCompletion: 2030\nPayment plan: n/a in overview\n\nSource: WhatsApp Emaar Metropolitan — Emaar_Focused_Projects_September_2026.pdf (p1)\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/7i082lGG/70-valia-emaar-from-aed-196m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66577b7e370624ffafbb8",
+      "listName": "Creek Harbour",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa627ef38998de669cacec9",
+      "name": "Sobha One – Sobha – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Creek Harbour\n**Developer / Project:** Sobha Realty / Sobha One\n\nStarting prices by layout: not stated in sources yet\n\nPSF: n/a\nPayment plan: n/a\nHandover: Dec 2026 (cancellation unit 1409 example)\nUnits/stock note: 2BR cancellation unit 1409 noted; price/PSF not readable\n\nLast update: 2026-09-13\nPending: price from offer PDF / brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/CAwC4XSB/18-sobha-one-sobha-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66577b7e370624ffafbb8",
+      "listName": "Creek Harbour",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa612303a7083871bd3b444",
+      "name": "Fior – Emaar – From AED 2.21M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Rashid Yachts & Marina (Mina Rashid)\n**Developer / Project:** Emaar / Fior\n\n**Starting prices by layout** (Focused Projects Sep 2026)\n- 1BR: 760 sq ft — From AED 2.21M\n- 2BR: 1,141 sq ft — From AED 3.16M\n- 3BR: 1,592 sq ft — From AED 4.57M\n\nCompletion: 2030\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/QLJzGo1x/6-fior-emaar-from-aed-221m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657659eb5957e9729767",
+      "listName": "Mina Rashid",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "3,000+"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4ba0d437a1b5ac9d45c4",
+      "name": "Jumeirah Residences Emirates Towers – Meraas – From AED 36.2M",
+      "desc": "**Materials (Drive):**\n- [Jumeirah Residence Emirates Towers.pdf](https://drive.google.com/file/d/1hkgz7OSU4d1Hb3fQ9GMo5A4MKCtMOacM/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep).\n\n**Type:** Apartments\n**Area:** Downtown\n**Developer / Project:** Meraas / Jumeirah Residences Emirates Towers\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 4BR: From AED 36.164M\n\nSource: Jumeirah Residence Emirates Towers.pdf",
+      "url": "https://trello.com/c/efNJrJRS/97-jumeirah-residences-emirates-towers-meraas-from-aed-362m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657869575a0f0beeb69d",
+      "listName": "Downtown",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6113d83c6ab74276a7685",
+      "name": "Downtown Residences – Deyaar – From AED 2.36M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Downtown\n**Developer / Project:** Deyaar / Downtown Residences\n\n**Starting prices by layout**\n- 1BR: unit 1611 896.21 sq ft AED 2,362,481 (~AED 2,636/sq ft)\n- 3BR: unit 7402 duplex 3,345.43 sq ft AED 10,578,024 (~AED 3,163/sq ft)\n\nPSF: AED 2,636–3,163/sq ft (unit examples)\nPayment plan: n/a\nHandover: ~31 Dec 2029\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: availability attach / Property Monitor yield\n",
+      "url": "https://trello.com/c/TVUGwduO/28-downtown-residences-deyaar-from-aed-236m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6657869575a0f0beeb69d",
+      "listName": "Downtown",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "2,000–3,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4b9288a3d6790735d9e1",
+      "name": "D3 Design Quarter – Meraas – From AED 6.61M",
+      "desc": "**Materials (Drive):**\n- [D3 Design Quarter 3BR.pdf](https://drive.google.com/file/d/1pmLWDbjc3OpnEodzN49XfaMk_TsyhJw5/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep).\n\n**Type:** Apartments\n**Area:** Business Bay / Design District\n**Developer / Project:** Meraas / D3 Design Quarter\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 3BR: From AED 6.614M\n\nSource: D3 Design Quarter 3BR.pdf",
+      "url": "https://trello.com/c/OI0htRau/93-d3-design-quarter-meraas-from-aed-661m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665779367f49db8224027",
+      "listName": "Business Bay",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e8843a128720a6d63e7",
+      "name": "Avarra by Palace – Emaar – From AED 2.7M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Business Bay\n**Developer / Project:** Emaar / Avarra by Palace\n\n**Starting prices by layout** (Focused Projects Sep 2026)\n- 1BR: 789 sq ft — From AED 2.7M\n- 2BR: 1,199 sq ft — From AED 4.0M\n- 3BR: 1,640 sq ft — From AED 5.7M\n- 4BR: 4,226 sq ft — From AED 13.4M\n\nCompletion: 2031\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/nvbXJCoK/30-avarra-by-palace-emaar-from-aed-27m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665779367f49db8224027",
+      "listName": "Business Bay",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "3,000+"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6219afd5940c7f1b16c85",
+      "name": "Eywa Tree of Life – R. Evolution – From AED 14M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Business Bay\n**Developer / Project:** R. Evolution (Rvl Real Estate) / Eywa / Eywa The Tree of Life\n\n**Starting prices by layout**\n- 2BR: from AED 14M (2,981 sq ft)\n- 3BR: from AED 25.5M (5,145 sq ft)\n- 4BR: from AED 41.5M (6,362 sq ft)\n- 5BR: from AED 55.9M (8,880 sq ft)\n\nPSF: AED ~4,700–6,300/sq ft (derived)\nPayment plan: not in opened WA page\nHandover: web cites ~Q2 2026 completion (verify)\nUnits/stock note: ~50–53 units\n\nLast update: 2026-09-13\nPending: attach payment/price PDFs / Property Monitor yield\n",
+      "url": "https://trello.com/c/sc2dTFsD/29-eywa-tree-of-life-r-evolution-from-aed-14m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665779367f49db8224027",
+      "listName": "Business Bay",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "3,000+"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa1a9cf300c19ef06d8721",
+      "name": "Terra Woods – Emaar – From AED 1.6M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Apartments & Townhouses\n**Area:** Expo Living, Dubai South (near Expo City / Al Maktoum Int’l)\n**Developer / Project:** Emaar / Terra Woods\n\n**Starting prices by layout** (Emaar Focused Projects – Apartments, Sep 2026)\n- 1BR: 742 sq ft — From AED 1.6M\n- 2BR: 1,111 sq ft — From AED 2.3M\n- 3BR: 1,667 sq ft — From AED 3.5M\n- Townhouse: 2,580 sq ft — From AED 5.0M\n\nCompletion: 2030\nPayment plan: n/a in overview\n\nSource: WhatsApp Emaar Metropolitan — Emaar_Focused_Projects_September_2026.pdf (p1 apartments)\nLast update: 2026-09-16",
+      "url": "https://trello.com/c/RZyTTe8Z/68-terra-woods-emaar-from-aed-16m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665850e347b30ab940100",
+      "listName": "Dubai South",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000",
+        "Townhouses"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa90e22d0a86f256f34c504",
+      "name": "Hayat Phase 7 – Dubai South – From AED 4.8M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Townhouses + Villas\n**Area:** Dubai South\n**Developer / Project:** Dubai South / Hayat Phase 7\n\n**Starting prices by layout**\n- Townhouses 4–5BR — From AED 4.8M (flyer)\n- Villas / 5BR twin villas — villa-only starting price not separately stated (flyer quotes community From AED 4.8M together)\n\nLast update: 2026-09-15\n\nPayment: 70/30 with 2-year post-handover.\nIncentives stated: 5% down payment; 2% DLD waiver; 2 years service-charge waiver.\nHandover / completion: Q1 2029.\n\nLaunch: “LAUNCHING TOMORROW” post dated 15 Sep 2026 (launch day 16 Sep). Media flyer in chat (image/video); download not saved.\nPending: brochure attach + Property Monitor yield.\n",
+      "url": "https://trello.com/c/uMShhfbo/59-hayat-phase-7-dubai-south-from-aed-48m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665850e347b30ab940100",
+      "listName": "Dubai South",
+      "due": null,
+      "labels": [
+        "Townhouses"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa90e440bd45a37238551b6",
+      "name": "Hayat Phase 7 – Dubai South – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Villas\n**Area:** Dubai South\n**Developer / Project:** Dubai South / Hayat Phase 7\n\nStarting prices by layout: not stated in sources yet\n- flyer quotes community From AED 4.8M for 4–5BR townhouses & 5BR twin villas together — villa-only starting price not separately stated → From AED n/a (do not invent).\n\nLast update: 2026-09-15\n\nPayment: 70/30 + 2yr PHPP; 5% DP; 2% DLD waiver; 2yr SC waiver.\nHandover: Q1 2029.\nLaunch tomorrow per 15 Sep post.\nSister card: townhouses From AED 4.8M.\nPending: brochure + yield.\n",
+      "url": "https://trello.com/c/Xc4phANf/60-hayat-phase-7-dubai-south-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665850e347b30ab940100",
+      "listName": "Dubai South",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa62315c2b548a5a6c7cf02",
+      "name": "Altair 52 – Aqua Properties – From AED 798K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai South\n**Developer / Project:** Aqua Properties / Altair 52\n\n**Starting prices by layout**\n- Studio: from AED 798K\n- 2BR: from AED 1.5M\n\nPSF: n/a\nPayment plan: 50/26/24\nHandover: Q4 2027\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / PSF from sheet / Property Monitor yield\n",
+      "url": "https://trello.com/c/59oR4eFd/26-altair-52-aqua-properties-from-aed-798k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665850e347b30ab940100",
+      "listName": "Dubai South",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6122d308a6d34596e78b9",
+      "name": "Iconic Residences – MERED – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai South\n**Developer / Project:** MERED / Iconic Residences\n\nStarting prices by layout: not stated in sources yet\n\nPSF: AED 3,393–4,388\nPayment plan: 5% booking + 20% SPA + milestones; 50% on handover\nHandover: Q3 2027\nUnits/stock note: G+66; Pininfarina\n\nLast update: 2026-09-13\nPending: availability PDF / Property Monitor yield\n",
+      "url": "https://trello.com/c/W1YACfzs/36-iconic-residences-mered-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665850e347b30ab940100",
+      "listName": "Dubai South",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "3,000+"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6113a6446d53d1aad3db8",
+      "name": "Vivo South – Main Realty – From AED 599K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai South\n**Developer / Project:** Main Realty / Vivo South / Vivo South Residences\n\n**Starting prices by layout**\n- Studio: from AED 599,000 (~433 sq ft)\n\nPSF: n/a\nPayment plan: cited 30/70\nHandover: Q1 2029\nUnits/stock note: Building G+P+6+R\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/1a0UD1io/38-vivo-south-main-realty-from-aed-599k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa665850e347b30ab940100",
+      "listName": "Dubai South",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4bad1112c5ffa41b0425",
+      "name": "Arancia – Beyond – From AED n/a",
+      "desc": "**Materials (Drive):**\n- [Arancia Phase 2 Brochure .pdf](https://drive.google.com/file/d/1Z240gFEUkX_CbSk6Ih0Gb1a_PzJ4MIHx/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Beyond posted Arancia Phase 2 brochure + generated sales offer (17 Sep). Brochure only on this card; unit prices sit in separate sales-offer PDFs (filenames GenerateSalesOffer — not uploaded as duplicates).\n\n**Type:** Apartments / townhouses (Phase 2)\n**Area:** Other inland\n**Developer / Project:** Beyond / Arancia Phase 2\n\n**Starting prices by layout:** not stated in brochure\n\nSource: Arancia Phase 2 Brochure .pdf",
+      "url": "https://trello.com/c/E7N2O6QE/100-arancia-beyond-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4b9de77c7ae74e26ed30",
+      "name": "The Edit – Meraas – From AED 4.14M",
+      "desc": "**Materials (Drive):**\n- [The Edit 2BR3BR .pdf](https://drive.google.com/file/d/1vJM-vzexpbS3o80bx65o-Zchj17sMXTU/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep).\n\n**Type:** Apartments\n**Area:** Other inland (Dubai Design District)\n**Developer / Project:** Meraas / The Edit\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 2BR: From AED 4.139M\n- 3BR: AED 7.79M\n\nSource: The Edit 2BR3BR .pdf",
+      "url": "https://trello.com/c/lbsUbS9u/95-the-edit-meraas-from-aed-414m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aae4b91b8a0268319b8d3d7",
+      "name": "Crestlane – Meraas – From AED 2.65M",
+      "desc": "**Materials (Drive):**\n- [1BR Crestlane Citywalk.pdf](https://drive.google.com/file/d/1ATvYYd6oTSZoWbzzW_hZtHQGezNg3m-C/view?usp=drivesdk)\n- [4BR TH Crestlane Citywalk.pdf](https://drive.google.com/file/d/1dxmobei5rx8ZhGnyZFGJzfmg8ddd_COD/view?usp=drivesdk)\n\n**Update (2026-09-19 noon):** Sales-offer batch from Nakheel/D1 + DP/Meraas (17 Sep).\n\n**Type:** Apartments + Townhouses\n**Area:** Other inland (City Walk)\n**Developer / Project:** Meraas / Crestlane Citywalk\n\n**Starting prices by layout** (from sales offers 17 Sep 2026)\n- 1BR: From AED 2.652M (788–846 sqft)\n- 4BR TH: From AED 16.328M\n\nSource: 1BR Crestlane Citywalk.pdf; 4BR TH Crestlane Citywalk.pdf",
+      "url": "https://trello.com/c/ufHq8rHZ/92-crestlane-meraas-from-aed-265m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": []
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47f609a657e087fbf540",
+      "name": "Chevalia Estate – Emaar – From AED 18.5M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Villas\n**Area:** Grand Polo Club & Resort\n**Developer / Project:** Emaar / Chevalia Estate\n\n**Starting prices by layout** (Focused Projects Sep 2026 p2)\n- 5BR EQ: From AED 18.5M\n\nCompletion: 2029\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/Zjh0F8CK/83-chevalia-estate-emaar-from-aed-185m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47eca1bf02b3194b20ef",
+      "name": "Avelia – Emaar – From AED 7.25M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Villas\n**Area:** The Valley\n**Developer / Project:** Emaar / Avelia\n\n**Starting prices by layout** (Focused Projects Sep 2026 p2)\n- 4BR: From AED 7.25M\n- 5BR Lux: From AED 8.86M\n- 5BR Prem: From AED 13.09M\n\nCompletion: 2029\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/lzsgXXSx/81-avelia-emaar-from-aed-725m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47e813fd809a32b2863c",
+      "name": "Selvara 3 – Emaar – From AED 6.9M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Villas\n**Area:** Grand Polo Club & Resort\n**Developer / Project:** Emaar / Selvara 3\n\n**Starting prices by layout** (Focused Projects Sep 2026 p2)\n- 4BR: From AED 6.9M\n\nCompletion: 2029\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/jgU46cxP/80-selvara-3-emaar-from-aed-69m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47e507174c65f13399b4",
+      "name": "Salva / Serro – Emaar – From AED 6.7M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Villas\n**Area:** The Heights\n**Developer / Project:** Emaar / Salva / Serro\n\n**Starting prices by layout** (Focused Projects Sep 2026 p2)\n- 3BR: From AED 6.7M\n- 4BR: From AED 8.2M\n- 5BR: From AED 11.2M\n\nCompletion: 2030\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/SEqF889r/79-salva-serro-emaar-from-aed-67m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa47e264a74d0cde4387cc",
+      "name": "Alva – Emaar – From AED 4.38M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Townhouses\n**Area:** The Valley\n**Developer / Project:** Emaar / Alva\n\n**Starting prices by layout** (Focused Projects Sep 2026 p2)\n- 3BR: From AED 4.38M\n- 4BR: From AED 5.09M\n\nCompletion: 2030\nPayment plan: n/a in overview\n\nSource: Emaar_Focused_Projects_September_2026.pdf\nLast update: 2026-09-16 11am",
+      "url": "https://trello.com/c/mD65Z6eO/78-alva-emaar-from-aed-438m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Townhouses"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa1a9f9d3a8d93478bb21e",
+      "name": "Vida – Emaar – From AED 1.8M",
+      "desc": "**Materials (Drive):**\n- [Emaar_Focused_Projects_September_2026.pdf](https://drive.google.com/file/d/1I6lum3g49MNh_6J5tCna1Ft_layX4SvF/view?usp=drivesdk)\n\n**Type:** Apartments\n**Area:** Dubai Hills Estate\n**Developer / Project:** Emaar / Vida (branded residences on the new park)\n\n**Starting prices by layout** (Emaar Focused Projects – Apartments, Sep 2026)\n- 1BR: 726 sq ft — From AED 1.8M\n- 2BR: 1,065 sq ft — From AED 3.1M\n- 3BR: 1,583 sq ft — From AED 4.0M\n\nCompletion: 2029\nPayment plan: n/a in overview\n\nSource: WhatsApp Emaar Metropolitan — Emaar_Focused_Projects_September_2026.pdf (p1)\nLast update: 2026-09-16",
+      "url": "https://trello.com/c/pQF1bDwf/69-vida-emaar-from-aed-18m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6122c3a03a7961ac1fec2",
+      "name": "Keturah Ardh – MAG – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Townhouses\n**Area:** Other inland\n**Developer / Project:** MAG / Keturah Ardh (final phase townhouse/villa plots)\n\nStarting prices by layout: not stated in sources yet\n\nPSF: AED 800–990/plot sq ft (derived)\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: 8 plots (final phase townhouse/villa plots)\n\nLast update: 2026-09-13\nPending: attach KETURAH ARDH.pdf / Property Monitor yield\n",
+      "url": "https://trello.com/c/6UPtiijX/16-keturah-ardh-mag-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Townhouses",
+        "Under 1,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61147329bd891d868d58c",
+      "name": "Sobha Elwood – Sobha – From AED 11.64M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Villas\n**Area:** Other inland\n**Developer / Project:** Sobha Realty / Sobha Elwood\n\n**Starting prices by layout**\n- 4BR: example 5,000 sq ft BUA / 6,216 sq ft plot; pool; completion Dec 2028\n- 5BR: SEL-V-515 AED 11,642,240 / 5,821.12 sq ft (~AED 2,000/sq ft)\n\nPSF: ~AED 2,000/sq ft (5BR example)\nPayment plan: n/a\nHandover: completion Dec 2028\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/WBy8Tenu/17-sobha-elwood-sobha-from-aed-1164m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Villas"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6122f3bad4a428409d6ba",
+      "name": "Address Zabeel – Emaar – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Emaar / Address Zabeel\n\nStarting prices by layout: not stated in sources yet\n\nPSF: AED ~3,100–3,850/sq ft (derived)\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: inventory PDF / Property Monitor yield\n",
+      "url": "https://trello.com/c/49hhV03i/52-address-zabeel-emaar-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "3,000+"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa627edd4be3a3487317be4",
+      "name": "Solis – Sobha – From AED 1M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Sobha Realty / Sobha Solis\n\n**Starting prices by layout**\n- Starting: From AED 1M+ (stated)\n\nPSF: n/a\nPayment plan: WA 40/60; online often 60/40; DLD-waiver promo noted\nHandover: ~Q4 2028\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / PSF / Property Monitor yield\n",
+      "url": "https://trello.com/c/sn3zpGEB/19-solis-sobha-from-aed-1m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa62587da9b20af3468fed1",
+      "name": "Dubai Jewel Tower – Sharaf – From AED 2M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Sharaf Group / Dubai Jewel Tower\n\n**Starting prices by layout**\n- Starting: From AED 2M cash/mortgage\n\nPSF: n/a\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: sizes 860–5,250 sq ft; service charge AED 21/sq ft; chiller free; ready\n\nLast update: 2026-09-13\nPending: brochure / PSF examples / Property Monitor yield\n",
+      "url": "https://trello.com/c/vmReFADX/21-dubai-jewel-tower-sharaf-from-aed-2m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa62585679575be83563c72",
+      "name": "Tavora Grande – JHK – From AED 550K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** JHK Developments (WA channel Evolutions; web confirms JHK for Tavora Grand) / Tavora Grande / Tavora Grand\n\n**Starting prices by layout**\n- Studio: online from ~AED 550K\n\nPSF: n/a\nPayment plan: 40% construction / 30% handover / 30% PHPP\nHandover: Mar 2029\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / PSF / Property Monitor yield\n",
+      "url": "https://trello.com/c/tT7RzNn6/22-tavora-grande-jhk-from-aed-550k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6235773749088438be689",
+      "name": "MAG 777 – MAG Property Development – From AED 777K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** MAG Property Development / MAG 777\n\n**Starting prices by layout**\n- Starting: Online from ~AED 777K\n\nPSF: AED ~1,360–1,742/sq ft\nPayment plan: often 50/50 or 20/30/50\nHandover: Q4 2025–Q1 2026 (sources)\nUnits/stock note: ~22-storey / ~261 units; studio ~477, 1BR ~736, 2BR ~1,384 total sq ft\n\nLast update: 2026-09-13\nPending: attach MAG 777 PDF / Property Monitor yield\n",
+      "url": "https://trello.com/c/8bW5yjCO/23-mag-777-mag-property-development-from-aed-777k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa62231071d137137c1b6d8",
+      "name": "Mirdad – Union Properties – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Union Properties / Mirdad\n\nStarting prices by layout: not stated in sources yet\n\nPSF: AED ~1,667–2,190/sq ft (avg ~AED 1,938)\nPayment plan: often 20/30/50\nHandover: ~Q4 2028\nUnits/stock note: ~190 apts + 4 loft duplexes; clusters M1/M2/M3; 1–3BR + lofts\n\nLast update: 2026-09-13\nPending: attach / Property Monitor yield\n",
+      "url": "https://trello.com/c/eubqpOTW/27-mirdad-union-properties-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6222843b0dc88246e4bdb",
+      "name": "Takaya – Union Properties – From AED n/a",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments (+ Townhouses)\n**Area:** Other inland\n**Developer / Project:** Union Properties / Takaya\n\n**Apartments**\nStarting prices by layout: not stated in sources yet\nPSF: AED ~1,180–2,128/sq ft (avg ~AED 1,873)\nPayment plan: often 60/40 + PHPP\nHandover: Q4 2027 (cited online)\nUnits/stock note: ~183 apt + 4 PH; mix studio–3BR\n\n**Townhouses** (merged from duplicate card)\nUnits/stock note: 18 townhouses + 1 villa in sheet (4–5BR); PSF n/a\n\nLast update: 2026-09-13\nPending: attach / Property Monitor yield\n",
+      "url": "https://trello.com/c/RQ3rYdDZ/40-takaya-union-properties-from-aed-n-a",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61d764290288d8cef6807",
+      "name": "Hadley Heights 2 – LEOS – From AED 1.76M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** LEOS Developments / Hadley Heights 2\n\n**Starting prices by layout**\n- 2BR: ~1,336–1,390 sq ft from about AED 1.76M (~AED 1,321/sq ft)\n\nPSF: AED ~1,321/sq ft\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/raZ3i55r/43-hadley-heights-2-leos-from-aed-176m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e8d85490f6c35ccf081",
+      "name": "Stax – Pasha1 – From AED 663K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Pasha1 Developers (Refine = marketing/dev management only) / Stax / STAX\n\n**Starting prices by layout**\n- Studio: from ~AED 663K\n\nPSF: n/a\nPayment plan: WA noted 20/80 only going forward\nHandover: ~Aug 2028\nUnits/stock note: two towers, ~528 units; duplexes up to ~AED 3.85M\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/7KM8Uv5e/41-stax-pasha1-from-aed-663k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e8b9d33e17adf1a5c4b",
+      "name": "Carmel Residences – Uniestate – From AED 745K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Uniestate Properties / Carmel Residences / Carmel Residence\n\n**Starting prices by layout**\n- Studio: from ~AED 745K–903K (sources vary)\n- 1BR: from ~AED 1.1M\n\nPSF: n/a\nPayment plan: cited 20/10/10/60 or 40/60 PHPP\nHandover: sources conflict (2026 vs 2029) — confirm\nUnits/stock note: boutique ~46 units\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/b5ZKHEzm/42-carmel-residences-uniestate-from-aed-745k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e7cea89a8a38414bcf1",
+      "name": "Park Residency – Park Group – From AED 539K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Park Residency Real Estate Development LLC / Park Group / Park Residency\n\n**Starting prices by layout**\n- Starting: From ~AED 539K (WA)\n\nPSF: n/a\nPayment plan: ~40% post-handover\nHandover: ~Q4 2028 / Dec 2029\nUnits/stock note: ~98 units mid-rise\n\nLast update: 2026-09-13\nPending: brochure / PSF / Property Monitor yield\n",
+      "url": "https://trello.com/c/qe9MWQCO/45-park-residency-park-group-from-aed-539k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e5a3876db619b27ec51",
+      "name": "Wellness Estate – Vincitore – From AED 889K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Vincitore Real Estate Development / Vincitore Wellness Estate (VWE)\n\n**Starting prices by layout**\n- Studio: from ~AED 889K (WA)\n\nPSF: n/a\nPayment plan: cited online 20/50/6/24\nHandover: ~Feb 2030\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: attach / Property Monitor yield\n",
+      "url": "https://trello.com/c/sCiHckQ0/44-wellness-estate-vincitore-from-aed-889k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61d6badc96536b6e8e195",
+      "name": "Omya Residences – Pantheon – From AED 624.9K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Pantheon Development / Omya Residences / Omya Rise\n\n**Starting prices by layout**\n- Studio: from AED 624,900 (348–535 sq ft); matrix examples ~AED 824,900–849,900\n- 1BR: from AED 899,900\n- 2BR: from AED 944,900\n\nPSF: n/a\nPayment plan: flexible; 35% post-handover\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: attach brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/HPT9nRcr/46-omya-residences-pantheon-from-aed-6249k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619f0481d33cae46ee39a",
+      "name": "Town Square – Nshama – From AED 900K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Nshama / Town Square Dubai\n\n**Starting prices by layout**\n- 1BR: AED 900K–1M (indicative)\n- 2BR: AED 1.5M–1.55M (indicative)\n\nPSF: n/a (sizes missing)\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/Fg0uW4A9/47-town-square-nshama-from-aed-900k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619efc9fe7bf327cb6dd3",
+      "name": "Provenza Residences – GoldenBridge – From AED 1.03M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** GoldenBridge (not Metropolitan) / Provenza Residences\n\n**Starting prices by layout**\n- Starting: From AED 1,030,000 (promo ~AED 988,800 with 3–4% discount)\n\nPSF: n/a\nPayment plan: post-handover plan through 2030\nHandover: Q3 2027\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/8Sooeajh/48-provenza-residences-goldenbridge-from-aed-103m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619c47a8cb876771173bf",
+      "name": "Tresora – WADAN – From AED 760K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** WADAN Developments / Tresora\n\n**Starting prices by layout**\n- Starting: From AED 760K (stated in sources)\n\nPSF: AED 1,648/sq ft\nPayment plan: 40/60 or 50/50 PHPP 3yr\nHandover: Q1 2028\nUnits/stock note: From AED 760K / 461 sq ft\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/ea9DZrnH/49-tresora-wadan-from-aed-760k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619c1ef84c70adf8eb28c",
+      "name": "11 Hills Park – TownX – From AED 699K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** TownX Development / 11 Hills Park\n\n**Starting prices by layout**\n- Starting: From AED 699,000 community release\n\nPSF: n/a\nPayment plan: n/a\nHandover: n/a\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/4hhAiauO/50-11-hills-park-townx-from-aed-699k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619bd3971641f163c6fa7",
+      "name": "Beverly Grande – HMB Homes – From AED 849K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** HMB Homes Real Estate Development / Beverly Grande\n\n**Starting prices by layout**\n- Studio: from AED 849K\n- 1BR: from AED 1.35M\n- 2BR: from AED 2.1M\n\nPSF: n/a\nPayment plan: 60/40\nHandover: Q4 2027\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/IDyu4lZA/51-beverly-grande-hmb-homes-from-aed-849k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa6113e2acebf0c3203536e",
+      "name": "ELEVE – Deyaar – From AED 1.75M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** Deyaar / ELEVE\n\n**Starting prices by layout**\n- 2BR: unit 3302 1,161 sq ft AED 1,752,994 (~AED 1,510/sq ft)\n\nPSF: AED 1,510/sq ft\nPayment plan: n/a\nHandover: May 2027\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/soW4T9ob/53-eleve-deyaar-from-aed-175m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa619c0e77ffb81c70ec340",
+      "name": "Ashley Hills – TownX – From AED 699K",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** TownX Development / Ashley Hills\n\n**Starting prices by layout**\n- Starting: From AED 699,000\n\nPSF: n/a\nPayment plan: n/a\nHandover: soon handover\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/Ft5LOeJi/54-ashley-hills-townx-from-aed-699k",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa0e8a7a7d8d2c59c71738",
+      "name": "Avana Residences – DECA – From AED 760,719",
+      "desc": "**Materials (Drive):** https://drive.google.com/file/d/1LdF6dL7s5hX2AcLZoyV6aWneJ9BBGf5X/view?usp=drivesdk\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** DECA Properties / Avana Residences\n\n**Starting prices by layout**\n- Studio: AED 760,719\n- 1BR: from AED 1.39M\n- 2BR: from AED 1.78M\n\nLast update: 2026-09-15\nViews: community / JVC Park / pool; some ground units with private garden.\nSource file: DECA - ALL PROJECTS - INVENTORY LIST - 15.09.2026.pdf (3 pages, ~333 kB).",
+      "url": "https://trello.com/c/GI7aNGKJ/62-avana-residences-deca-from-aed-760719",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa0e8aad0e7f752b8b5ad3",
+      "name": "Olivia Residences – DECA – From AED 1,410,288",
+      "desc": "**Materials (Drive):** https://drive.google.com/file/d/1LdF6dL7s5hX2AcLZoyV6aWneJ9BBGf5X/view?usp=drivesdk\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** DECA Properties / Olivia Residences\n\n**Starting prices by layout**\n- 1BR: AED 1,410,288 (1 terrace apt)\n\nLast update: 2026-09-15\nSource file: DECA - ALL PROJECTS - INVENTORY LIST - 15.09.2026.pdf.",
+      "url": "https://trello.com/c/oIHXg2IA/63-olivia-residences-deca-from-aed-1410288",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aaa0e8b9db5ca447a86f64e",
+      "name": "Trinity – DECA – From AED 1,994,375",
+      "desc": "**Materials (Drive):** https://drive.google.com/file/d/1LdF6dL7s5hX2AcLZoyV6aWneJ9BBGf5X/view?usp=drivesdk\n\n**Type:** Apartments\n**Area:** Other inland\n**Developer / Project:** DECA Properties / Trinity\n\n**Starting prices by layout**\n- 2BR: AED 1,994,375\n\nLast update: 2026-09-15\nCommercial DECA sheet in same PDF skipped (offices/shops excluded).\nSource file: DECA - ALL PROJECTS - INVENTORY LIST - 15.09.2026.pdf.",
+      "url": "https://trello.com/c/c815YW9r/65-trinity-deca-from-aed-1994375",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa6658a0ceb5378f15ddf07",
+      "listName": "Other inland",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa625869db557a0e925776e",
+      "name": "Aquora – Casa Vista – From AED 1.9M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Islands\n**Developer / Project:** Casa Vista Development / Aquora\n\n**Starting prices by layout**\n- 1BR: from ~AED 1.9M (stated)\n\nPSF: n/a\nPayment plan: IPS 35/65 (WA exclusive); also cited 20/20/60 online\nHandover: ~Q1–Q4 2028\nUnits/stock note: ~105 units B+G+7\n\nLast update: 2026-09-13\nPending: brochure / PSF / Property Monitor yield\n",
+      "url": "https://trello.com/c/4TnZqb4N/1-aquora-casa-vista-from-aed-19m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66575d2700feb8ba45d7e",
+      "listName": "Dubai Islands",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e80f56eb3b0c76384d0",
+      "name": "Soma Residences – Origami – From AED 1.67M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Islands\n**Developer / Project:** Origami Development (Devmark = exclusive sales/marketing only) / Soma Residences\n\n**Starting prices by layout**\n- 1BR: 848 sq ft AED 1.67M (~AED 1,970/sq ft)\n- 2BR: 1,323 sq ft AED 2.47M\n- 3BR: 1,607 sq ft AED 2.85M; duplex 2,355 sq ft AED 4.42M\n\nPSF: AED ~1,770–1,970/sq ft (from title/WA)\nPayment plan: n/a\nHandover: Q4 2028\nUnits/stock note: boutique 44 units G+P+6+R\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/Rwa8dEHM/3-soma-residences-origami-from-aed-167m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66575d2700feb8ba45d7e",
+      "listName": "Dubai Islands",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61e7eecf84ec7d456b601",
+      "name": "Lia – AveNew – From AED 4.96M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Islands\n**Developer / Project:** AveNew Development / Lia (Lia Residences)\n\n**Starting prices by layout**\n- 1BR/examples: Lia-3-312 1,464 sq ft AED 4,955,000 (~AED 3,385/sq ft); Lia-5-501 2,200 sq ft AED 7,436,000 (~AED 3,380/sq ft)\n\nPSF: AED ~3,380/sq ft\nPayment plan: often 50/50\nHandover: ~Q1 2028\nUnits/stock note: ~82 units G+8\n\nLast update: 2026-09-13\nPending: brochure attach / Property Monitor yield\n",
+      "url": "https://trello.com/c/IApnKEbJ/4-lia-avenew-from-aed-496m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66575d2700feb8ba45d7e",
+      "listName": "Dubai Islands",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "3,000+"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa61138521982e5065ee8f7",
+      "name": "Flow Residences – Main Realty – From AED 1.9M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Islands\n**Developer / Project:** Main Realty (confirmed online; sales channel) / Flow Residences\n\n**Starting prices by layout**\n- Starting: From ~AED 1.9–2.07M (stated)\n\nPSF: n/a\nPayment plan: often cited 20/30/10/40\nHandover: ~Q2–Q4 2027 (sources vary)\nUnits/stock note: n/a\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/Vx9ilUfa/5-flow-residences-main-realty-from-aed-19m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66575d2700feb8ba45d7e",
+      "listName": "Dubai Islands",
+      "due": null,
+      "labels": [
+        "Apartments"
+      ]
+    },
+    {
+      "cardId": "ari:cloud:trello::card/workspace/569e70bcc6f74f24e9140c0f/6aa62315b88da81626c400e2",
+      "name": "House of Well – Well Concept – From AED 1.6M",
+      "desc": "**Materials:** pending — brochure / floor plans / inventory PDF not linked yet\n\n**Type:** Apartments\n**Area:** Dubai Islands\n**Developer / Project:** Well Concept / House of Well (House of WELL)\n\n**Starting prices by layout**\n- 1BR: from AED 1.6M\n\nPSF: AED 1,800/sq ft\nPayment plan: 30/70\nHandover: Q4 2027\nUnits/stock note: ~77 residences\n\nLast update: 2026-09-13\nPending: brochure / Property Monitor yield\n",
+      "url": "https://trello.com/c/G3GFSWQw/2-house-of-well-well-concept-from-aed-16m",
+      "listId": "ari:cloud:trello::list/workspace/569e70bcc6f74f24e9140c0f/6aa66575d2700feb8ba45d7e",
+      "listName": "Dubai Islands",
+      "due": null,
+      "labels": [
+        "Apartments",
+        "1,000–2,000"
+      ]
+    }
+  ]
+}

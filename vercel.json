@@ -1,0 +1,145 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "functions": {
+    "api/login.js": {
+      "maxDuration": 30
+    },
+    "api/logout.js": {
+      "maxDuration": 30
+    },
+    "api/session.js": {
+      "maxDuration": 30
+    },
+    "api/leads.js": {
+      "maxDuration": 30
+    },
+    "api/leads/[id].js": {
+      "maxDuration": 30
+    },
+    "api/clients.js": {
+      "maxDuration": 30
+    },
+    "api/grok.js": {
+      "maxDuration": 30
+    },
+    "api/news.js": {
+      "maxDuration": 30
+    },
+    "api/calendar.js": {
+      "maxDuration": 20
+    },
+    "api/whatsapp-links.js": {
+      "maxDuration": 10,
+      "includeFiles": "api/_lib/whatsapp-links.json"
+    },
+    "api/owner-search.js": {
+      "maxDuration": 30,
+      "includeFiles": "api/_lib/owner-phones.sqlite.gz"
+    },
+    "api/broadcast-reply.js": {
+      "maxDuration": 30
+    }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "crm.mahmouddxb.com"
+        }
+      ],
+      "destination": "https://crm.askmontaser.ae/",
+      "permanent": true
+    },
+    {
+      "source": "/:path((?!api/(?:news|broadcast-reply|email-events)(?:/|$)).+)",
+      "has": [
+        {
+          "type": "host",
+          "value": "crm.mahmouddxb.com"
+        }
+      ],
+      "destination": "https://crm.askmontaser.ae/:path",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "map-crm-sooty.vercel.app"
+        }
+      ],
+      "destination": "https://crm.askmontaser.ae/",
+      "permanent": true
+    },
+    {
+      "source": "/:path((?!api/(?:news|broadcast-reply|email-events)(?:/|$)).+)",
+      "has": [
+        {
+          "type": "host",
+          "value": "map-crm-sooty.vercel.app"
+        }
+      ],
+      "destination": "https://crm.askmontaser.ae/:path",
+      "permanent": true
+    },
+    {
+      "source": "/crm",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/crm/",
+      "destination": "/",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/api/secondary",
+      "destination": "/api/clients?feed=secondary"
+    },
+    {
+      "source": "/api/email-events",
+      "destination": "/api/leads?feed=email-events"
+    },
+    {
+      "source": "/api/email-contacts",
+      "destination": "/api/leads?feed=email"
+    },
+    {
+      "source": "/api/calendar/events",
+      "destination": "/api/calendar?events=1"
+    },
+    {
+      "source": "/api/leads/:id",
+      "destination": "/api/leads/[id]?id=:id"
+    },
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
+    },
+    {
+      "source": "/assets/(.*)",
+      "destination": "/assets/$1"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
